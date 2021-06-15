@@ -2,7 +2,7 @@
 
 This repository contains the value sets referenced by the EU Digital COVID Certificate (DCC) [JSON Schema](https://github.com/ehn-dcc-development/ehn-dcc-schema).
 
-Release: 1.0.0
+Release: 1.0.1
 
 Note that these value sets do not form a core part of the [JSON Schema](https://github.com/ehn-dcc-development/ehn-dcc-schema) but are referenced by it. These value sets can (and should) be regularly updated and distributed from the main Digital COVID Certificate Gateway (DCCG), under clear versioning and release management.
 
