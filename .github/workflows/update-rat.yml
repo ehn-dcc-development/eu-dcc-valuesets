@@ -1,0 +1,19 @@
+name: Update RAT Manufacturers
+on:
+  schedule:
+    - cron: '30 5 * * *'
+  workflow_dispatch:
+  pull_request:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    steps:
+     - uses: actions/checkout@v2
+       with:
+         fetch-depth: 0
+     - name: Run update-rat.sh script
+       run:  sh source-update/update-rat.sh > test-manf.json
+     - name: Make a branch when necessary
+       run:  sh source-update/make-branch-if-diff.sh
