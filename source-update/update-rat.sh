@@ -1,6 +1,6 @@
 #!/bin/bash
 curl --silent --show-error https://covid-19-diagnostics.jrc.ec.europa.eu/devices/hsc-common-recognition-rat |
-jq '.extracted_on as $version | .deviceList | reduce .[] as $i
+jq '.extracted_on as $version | .deviceList | sort_by(.id_device | tonumber) | reduce .[] as $i
 ({};
 .[$i.id_device] =
 { "display": ($i.manufacturer.name + ", " + $i.commercial_name),
