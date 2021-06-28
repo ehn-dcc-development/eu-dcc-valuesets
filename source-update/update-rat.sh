@@ -9,3 +9,6 @@ jq '.extracted_on as $version | .deviceList | reduce .[] as $i
     "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
     "version": $i.last_updated
 }) | {"valueSetId": "covid-19-lab-test-manufacturer-and-name", "valueSetDate":$version[0:10], "valueSetValues": .}'
+
+# Retrieves the official list of RAT manufacturers from the JRC site, and converts it into an appropriate value set.
+
