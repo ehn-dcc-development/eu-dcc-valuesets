@@ -11,5 +11,5 @@ curl --silent --show-error https://covid-19-diagnostics.jrc.ec.europa.eu/devices
   "lang": "en",
   "active": $latest.in_common_list,
   "system": "https://covid-19-diagnostics.jrc.ec.europa.eu/devices",
-  "version":  (if $latest.in_common_list then $i.last_updated else $latest.list_date end) }))
+  "version":  (if $latest.in_common_list then $i.last_updated else $latest.list_date end)[0:10] }))
 }'
