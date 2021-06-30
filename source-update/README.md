@@ -1,6 +1,6 @@
 # EU eHealthNetwork Digitial COVID Certificate RAT list update script
 
-This repository contains scripts that could be used to update value set with common rapid antigen tests (RAT) referenced by the EU Digital COVID Certificate (DCC) [JSON Schema](https://github.com/ehn-dcc-development/ehn-dcc-schema).
+This repository contains scripts that are used to update the value set for the common list of rapid antigen tests (RATs) referenced by the EU Digital COVID Certificate (DCC) [JSON Schema](https://github.com/ehn-dcc-development/ehn-dcc-schema).
 
 Release: 2.0.0
 
