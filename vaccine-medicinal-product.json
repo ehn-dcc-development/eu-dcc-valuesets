@@ -84,6 +84,13 @@
       "lang": "en",
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.0"
+    },
+    "Covishield": {
+      "display": "Covishield (ChAdOx1_nCoV-19)",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.2"
     },
     "Covid-19-recombinant": {
