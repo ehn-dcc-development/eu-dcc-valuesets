@@ -1,6 +1,6 @@
 {
   "valueSetId": "vaccines-covid-19-auth-holders",
-  "valueSetDate": "2021-05-07",
+  "valueSetDate": "2021-09-29",
   "valueSetValues": {
     "ORG-100001699": {
       "display": "AstraZeneca AB",
@@ -102,6 +102,20 @@
     },
     "ORG-100001981": {
       "display": "Serum Institute Of India Private Limited",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
+    },
+    "Fiocruz": {
+      "display": "Fiocruz",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+      "version": "1.3"
+    },
+    "ORG-100007893": {
+      "display": "R-Pharm CJSC",
       "lang": "en",
       "active": true,
       "system": "https://spor.ema.europa.eu/v1/organisations",
