@@ -6,7 +6,7 @@ AJV=		./node_modules/.bin/ajv -c ajv-formats --spec=draft2020 --strict=false
 test:
 	#$(AJV) test -s $(SCHEMA) -d "*.json" --valid
 	ls *.json
-	ls *.json | grep -v "package" | xargs -I {} $(AJV) test -s $(SCHEMA) -d {} --valid
+	ls *.json | grep -E -v "package|valueset" | xargs -I {} $(AJV) test -s $(SCHEMA) -d {} --valid
 
 prepare: 
 	mkdir schemas
