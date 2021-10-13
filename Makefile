@@ -1,4 +1,4 @@
-SCHEMA_URL= 	https://raw.githubusercontent.com/ehn-dcc-development/ehn-dcc-schema/release/1.3.0/valueset.json
+SCHEMA_URL= 	https://raw.githubusercontent.com/ehn-dcc-development/ehn-dcc-valuesets/release/2.1.0/valueset.json
 SCHEMA=		./schemas/DCC.valueset.schema.json
 
 AJV=		./node_modules/.bin/ajv -c ajv-formats --spec=draft2020 --strict=false
