@@ -1749,7 +1749,7 @@
       "display": "Kosovo, Republic of",
       "lang": "en",
       "active": true,
-      "system": "urn:iso:std:iso:3166",
+      "system": "http://ec.europa.eu/temp/countrycodes",
       "version": ""
     }
   }
