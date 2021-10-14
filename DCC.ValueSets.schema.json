@@ -19,7 +19,37 @@
     },
     "valueSetValues": {
       "title": "Allowed values in Value Set",
-      "type": "object"
+      "type": "object",
+      "patternProperties": {
+        "^.*$": {
+          "title": "Allowed values in records",
+          "type": "object",
+          "properties": {
+            "display": {
+              "type": "string"
+            },
+            "lang": {
+              "type": "string"
+            },
+            "active": {
+              "type": "boolean"
+            },
+            "version": {
+              "type": "string"
+            },
+            "system": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "display",
+            "lang",
+            "active",
+            "version",
+            "system"
+          ]
+        }
+      }
     }
   }
 }
