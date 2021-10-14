@@ -1744,6 +1744,13 @@
       "active": true,
       "system": "urn:iso:std:iso:3166",
       "version": ""
+    },
+    "XK": {
+      "display": "Kosovo",
+      "lang": "en",
+      "active": true,
+      "system": "urn:iso:std:iso:3166",
+      "version": ""
     }
   }
 }
