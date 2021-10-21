@@ -120,6 +120,20 @@
       "active": true,
       "system": "https://spor.ema.europa.eu/v1/organisations",
       "version": ""
+    },
+    "Chumakov-Federal-Scientific-Center": {
+      "display": "Chumakov Federal Scientific Center for Research and Development of Immune-and-Biological Products",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+      "version": "1.4"
+    },
+    "ORG-100023050": {
+      "display": "Gulf Pharmaceutical Industries",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
     }
   }
 }
