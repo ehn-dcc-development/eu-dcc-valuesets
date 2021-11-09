@@ -1,6 +1,6 @@
 {
   "valueSetId": "vaccines-covid-19-auth-holders",
-  "valueSetDate": "2021-09-29",
+  "valueSetDate": "2021-11-09",
   "valueSetValues": {
     "ORG-100001699": {
       "display": "AstraZeneca AB",
@@ -134,6 +134,20 @@
       "active": true,
       "system": "https://spor.ema.europa.eu/v1/organisations",
       "version": ""
+    },
+    "CIGB": {
+      "display": "Center for Genetic Engineering and Biotechnology",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+      "version": "1.5"
+    },
+    "Sinopharm-WIBP": {
+      "display": "Sinopharm - Wuhan Institute of Biological Products",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+      "version": "1.5"
     }
   }
 }
