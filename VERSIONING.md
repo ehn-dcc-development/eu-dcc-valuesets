@@ -20,7 +20,7 @@ That possibly leads to discussion conducted inside the PR page, and further work
 
 After enough reviewers have approved the PR, it can be merged into `main`.
 Merging the PR is done through “rebase + merge commit”, _without_ fast-forwarding.
-On GitHub, that corresponds to the “Merge pull request” option, rather than the “Squash and merge”, or the “Rebase and merge” options.
+On GitHub, that corresponds to the “Create a merge commit” option next to the “Merge pull request” button, rather than the “Squash and merge”, or the “Rebase and merge” options.
 On the commandline, it's:
 
     $ git checkout main
