@@ -2,6 +2,8 @@
 
 ## Release 2.4.0
 
+* Change the versioning process, and document it in [`VERSIONING.md`](./VERSIONING.md).
+
 
 ## Release 2.3.0
 
