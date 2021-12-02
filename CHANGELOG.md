@@ -1,5 +1,8 @@
 # Change log
 
+## Release 2.5.0
+
+
 ## Release 2.4.1
 
 * Add vaccine NVX-CoV2373 - was missing until now.
