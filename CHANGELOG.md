@@ -4,6 +4,12 @@
 
 * Change the versioning process, and document it in [`VERSIONING.md`](./VERSIONING.md).
 
+* Update to eHN guidelines document for value sets, version 1.6:
+   1. New vaccine: “MVC COVID-19 vaccine“, ID'd as “MVC-COV1901”.
+   2. New manufacturer (for the new vaccine): “Medigen Vaccine Biologics Corporation”, ID'd as “ORG-100033914”.
+
+    The [guidelines document v1.6 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
 
 ## Release 2.3.0
 

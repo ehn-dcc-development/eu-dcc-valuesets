@@ -148,6 +148,13 @@
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
       "version": "1.5"
+    },
+    "ORG-100033914": {
+      "display": "Medigen Vaccine Biologics Corporation",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
     }
   }
 }

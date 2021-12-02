@@ -141,6 +141,13 @@
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.5"
+    },
+    "MVC-COV1901": {
+      "display": "MVC COVID-19 vaccine",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.6"
     }
   }
 }
