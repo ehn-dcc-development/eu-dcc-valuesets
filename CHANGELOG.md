@@ -1,5 +1,10 @@
 # Change log
 
+## Release 2.4.1
+
+* Add vaccine NVX-CoV2373 - was missing until now.
+
+
 ## Release 2.4.0
 
 * Change the versioning process, and document it in [`VERSIONING.md`](./VERSIONING.md).
