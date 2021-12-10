@@ -37,6 +37,13 @@
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.0"
     },
+    "NVX-CoV2373": {
+      "display": "NVX-CoV2373",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.0"
+    },
     "Sputnik-V": {
       "display": "Sputnik-V",
       "lang": "en",
