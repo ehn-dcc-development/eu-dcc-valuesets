@@ -2,6 +2,15 @@
 
 ## Release 2.5.0
 
+* Update to eHN guidelines document for value sets, version 1.7:
+    1. New vaccine added: “Nuvaxoid“, ID'd as “EU/1/21/1618”, and previously known as NVX-CoV2373.
+    2. Existing vaccines “NVX-CoV2373”, and “Inactivated-SARS-CoV-2-Vero-Cell” have been deprecated.
+       (This is expressed only by the postfix ` (deprecated)` in their `display` field's values. 
+    3. Value of `display` field of the vaccine ID'd as EU/1/20/1507 has been shortened to “Spikevax”.
+    4. Value of `display` field of the vaccine manufacturer ID'd as “ORG-100032020” has been corrected to “Novavax CZ a.s.”.
+
+  The [guidelines document v1.6 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
 
 ## Release 2.4.1
 

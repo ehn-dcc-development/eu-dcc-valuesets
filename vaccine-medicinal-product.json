@@ -10,7 +10,7 @@
       "version": ""
     },
     "EU/1/20/1507": {
-      "display": "Spikevax (previously COVID-19 Vaccine Moderna)",
+      "display": "Spikevax",
       "lang": "en",
       "active": true,
       "system": "https://ec.europa.eu/health/documents/community-register/html/",
@@ -38,7 +38,7 @@
       "version": "1.0"
     },
     "NVX-CoV2373": {
-      "display": "NVX-CoV2373",
+      "display": "NVX-CoV2373 (deprecated)",
       "lang": "en",
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
@@ -73,7 +73,7 @@
       "version": "1.0"
     },
     "Inactivated-SARS-CoV-2-Vero-Cell": {
-      "display": "Inactivated SARS-CoV-2 (Vero Cell)",
+      "display": "Inactivated SARS-CoV-2 (Vero Cell) (deprecated)",
       "lang": "en",
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
@@ -155,7 +155,13 @@
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.6"
+    },
+    "EU/1/21/1618": {
+      "display": "Nuvaxoid",
+      "lang": "en",
+      "active": true,
+      "system": "https://ec.europa.eu/health/documents/community-register/html/",
+      "version": "1.7"
     }
   }
 }
-
