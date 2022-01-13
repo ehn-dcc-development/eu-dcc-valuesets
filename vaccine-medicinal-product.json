@@ -40,7 +40,7 @@
     "NVX-CoV2373": {
       "display": "NVX-CoV2373 (deprecated)",
       "lang": "en",
-      "active": true,
+      "active": false,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.0"
     },
@@ -75,7 +75,7 @@
     "Inactivated-SARS-CoV-2-Vero-Cell": {
       "display": "Inactivated SARS-CoV-2 (Vero Cell) (deprecated)",
       "lang": "en",
-      "active": true,
+      "active": false,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.0"
     },
