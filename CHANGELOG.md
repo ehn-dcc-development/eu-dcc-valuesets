@@ -6,7 +6,9 @@
     1. New vaccine entry added: “Nuvaxovid“, ID'd as “EU/1/21/1618”, and previously known as NVX-CoV2373.
        (This entry does not have an explicit version because it's an EMA-approved vaccine, and EMA has their own versioning system.)
     2. Existing vaccines “NVX-CoV2373”, and “Inactivated-SARS-CoV-2-Vero-Cell” have been deprecated.
-       (This is expressed only by the postfix ` (deprecated)` in their `display` field's values. 
+       This is expressed in their respective entries by:
+       * Adding the postfix ` (deprecated)` to the `display` field's values;
+       * Setting the `active` field's values to `false`, indicating that these vaccine IDs should not be used anymore for new vaccines.
     3. Value of `display` field of the vaccine ID'd as EU/1/20/1507 has been shortened to “Spikevax”.
     4. Value of `display` field of the vaccine manufacturer ID'd as “ORG-100032020” has been corrected to “Novavax CZ a.s.”.
 
