@@ -3,7 +3,7 @@
 ## Release 2.5.0
 
 * Update to eHN guidelines document for value sets, version 1.7:
-    1. New vaccine entry added: “Nuvaxoid“, ID'd as “EU/1/21/1618”, and previously known as NVX-CoV2373.
+    1. New vaccine entry added: “Nuvaxovid“, ID'd as “EU/1/21/1618”, and previously known as NVX-CoV2373.
        (This entry does not have an explicit version because it's an EMA-approved vaccine, and EMA has their own versioning system.)
     2. Existing vaccines “NVX-CoV2373”, and “Inactivated-SARS-CoV-2-Vero-Cell” have been deprecated.
        (This is expressed only by the postfix ` (deprecated)` in their `display` field's values. 
