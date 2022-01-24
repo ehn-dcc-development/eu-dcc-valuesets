@@ -162,6 +162,41 @@
       "active": true,
       "system": "https://ec.europa.eu/health/documents/community-register/html/",
       "version": ""
+    },
+    "Covovax": {
+      "display": "Covovax",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.8"
+    },
+    "Vidprevtyn": {
+      "display": "Vidprevtyn",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.8"
+    },
+    "VLA2001": {
+      "display": "VLA2001",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.8"
+    },
+    "EpiVacCorona-N": {
+      "display": "EpiVacCorona-N",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.8"
+    },
+    "Sputnik-M": {
+      "display": "Sputnik M",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.8"
     }
   }
 }

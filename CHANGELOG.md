@@ -2,6 +2,19 @@
 
 ## Release 2.6.0
 
+* Update to eHN guidelines document for value sets, version 1.8:
+  1. Inclusion of the following vaccines:
+     - Covovax from Serum Institute of India, WHO approved
+     - Sputnik M from Gamaleya-Institute
+     - EpiVacCorona-N from Vector-Institute
+     - Vidprevtyn from Sanofi Pasteur, also in rolling review by EMA
+     - VLA2001 from Valneva France, also in rolling review by EMA
+  2. Inclusion of the following MAH:
+     - ORG-100000788 (Sanofi Pasteur)
+     - ORG-100036422 (Valneva France)
+
+  The [guidelines document v1.8 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
 
 ## Release 2.5.0
 

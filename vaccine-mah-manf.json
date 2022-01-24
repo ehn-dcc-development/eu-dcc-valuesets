@@ -155,6 +155,20 @@
       "active": true,
       "system": "https://spor.ema.europa.eu/v1/organisations",
       "version": ""
+    },
+    "ORG-100000788": {
+      "display": "Sanofi Pasteur",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
+    },
+    "ORG-100036422": {
+      "display": "Valneva France",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
     }
   }
 }
