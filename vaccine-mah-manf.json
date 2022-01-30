@@ -1,6 +1,6 @@
 {
   "valueSetId": "vaccines-covid-19-auth-holders",
-  "valueSetDate": "2021-11-09",
+  "valueSetDate": "2022-01-26",
   "valueSetValues": {
     "ORG-100001699": {
       "display": "AstraZeneca AB",
