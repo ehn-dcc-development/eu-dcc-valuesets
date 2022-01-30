@@ -1,6 +1,6 @@
 {
   "valueSetId": "vaccines-covid-19-auth-holders",
-  "valueSetDate": "2021-11-09",
+  "valueSetDate": "2022-01-26",
   "valueSetValues": {
     "ORG-100001699": {
       "display": "AstraZeneca AB",
@@ -151,6 +151,20 @@
     },
     "ORG-100033914": {
       "display": "Medigen Vaccine Biologics Corporation",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
+    },
+    "ORG-100000788": {
+      "display": "Sanofi Pasteur",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
+    },
+    "ORG-100036422": {
+      "display": "Valneva France",
       "lang": "en",
       "active": true,
       "system": "https://spor.ema.europa.eu/v1/organisations",
