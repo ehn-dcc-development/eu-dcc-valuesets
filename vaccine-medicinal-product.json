@@ -87,14 +87,14 @@
       "version": "1.0"
     },
     "Covaxin": {
-      "display": "Covaxin (also known as BBV152 A, B, C)",
+      "display": "Covaxin",
       "lang": "en",
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.0"
     },
     "Covishield": {
-      "display": "Covishield (ChAdOx1_nCoV-19)",
+      "display": "Covishield",
       "lang": "en",
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
