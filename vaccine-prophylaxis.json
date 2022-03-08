@@ -22,6 +22,27 @@
       "active": true,
       "version": "2021-01",
       "system": "http://www.whocc.no/atc"
+    },
+    "1162643001": {
+      "display": "SARS-CoV-2 recombinant spike protein antigen vaccine",
+      "lang": "en",
+      "active": true,
+      "version": "2022-01-31",
+      "system": "http://snomed.info/sct"
+    },
+    "1157024006": {
+      "display": "Inactivated whole SARS-CoV-2 antigen vaccine",
+      "lang": "en",
+      "active": true,
+      "version": "2022-01-31",
+      "system": "http://snomed.info/sct"
+    },
+    "29061000087103": {
+      "display": "COVID-19 non-replicating viral vector vaccine",
+      "lang": "en",
+      "active": true,
+      "version": "2022-01-31",
+      "system": "http://snomed.info/sct"
     }
   }
 }

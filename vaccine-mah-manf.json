@@ -169,6 +169,41 @@
       "active": true,
       "system": "https://spor.ema.europa.eu/v1/organisations",
       "version": ""
+    },
+    "Instituto-Butantan": {
+      "display": "Instituto Butantan",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+      "version": "1.9"
+    },
+    "NVSI": {
+      "display": "National Vaccine and Serum Institute, China",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+      "version": "1.9"
+    },
+    "Yisheng-Biopharma": {
+      "display": "Yisheng Biopharma",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+      "version": "1.9"
+    },
+    "ORG-100026614": {
+      "display": "Sinocelltech Ltd.",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
+    },
+    "ORG-100008549": {
+      "display": "Medicago Inc.",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
     }
   }
 }
