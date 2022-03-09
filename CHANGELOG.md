@@ -1,5 +1,29 @@
 # Change log
 
+## Release 2.7.0
+
+* Update to eHN guidelines document for value sets, version 1.9:
+    1. Inclusion of the follow prophylaxes (types):
+        - SARS-CoV-2 recombinant spike protein antigen vaccine
+        - Inactivated whole SARS-CoV-2 antigen vaccine
+        - COVID-19 non-replicating viral vector vaccine
+    2. Inclusion of the following vaccines:
+        - Covid-19-adsorvida-inativada
+        - NVSI-06-08
+        - YS-SC2-010
+        - SCTV01C
+        - Covifenz
+        - AZD2816
+    3. Inclusion of the following MAH:
+        - Instituto Butantan
+        - National Vaccine and Serum Institute, China
+        - Yisheng Biopharma
+        - Sinocelltech Ltd.
+        - Medicago Inc.
+
+  The [guidelines document v1.9 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
+
 ## Release 2.6.0
 
 * Update to eHN guidelines document for value sets, version 1.8:
