@@ -87,14 +87,14 @@
       "version": "1.0"
     },
     "Covaxin": {
-      "display": "Covaxin (also known as BBV152 A, B, C)",
+      "display": "Covaxin",
       "lang": "en",
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.0"
     },
     "Covishield": {
-      "display": "Covishield (ChAdOx1_nCoV-19)",
+      "display": "Covishield",
       "lang": "en",
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
@@ -197,6 +197,48 @@
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.8"
+    },
+    "Covid-19-adsorvida-inativada": {
+      "display": "Vacina adsorvida covid-19 (inativada)",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.9"
+    },
+    "NVSI-06-08": {
+      "display": "NVSI-06-08",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.9"
+    },
+    "YS-SC2-010": {
+      "display": "YS-SC2-010",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.9"
+    },
+    "SCTV01C": {
+      "display": "SCTV01C",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.9"
+    },
+    "Covifenz": {
+      "display": "Covifenz",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.9"
+    },
+    "AZD2816": {
+      "display": "AZD2816",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.9"
     }
   }
 }
