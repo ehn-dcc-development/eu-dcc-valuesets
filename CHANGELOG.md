@@ -1,5 +1,8 @@
 # Change log
 
+## Release 2.8.0
+
+
 ## Release 2.7.0
 
 * Update to eHN guidelines document for value sets, version 1.9:
