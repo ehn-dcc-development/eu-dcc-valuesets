@@ -2,6 +2,13 @@
 
 ## Release 2.8.0
 
+* Update to eHN guidelines document for value sets, version 1.10:
+  1. Change of the name of one vaccine: Jcovden, formerly known as “COVID-19 Vaccine Janssen”
+  2. New vaccines: Soberana 02, and Soberana Plus
+  3. New vaccine marketing authorization holder or manufacturer: Finlay-Institute
+
+  <!--The [guidelines document v1.10 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).-->
+
 
 ## Release 2.7.0
 
