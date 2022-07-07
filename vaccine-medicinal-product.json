@@ -24,7 +24,7 @@
       "version": ""
     },
     "EU/1/20/1525": {
-      "display": "COVID-19 Vaccine Janssen",
+      "display": "Jcovden",
       "lang": "en",
       "active": true,
       "system": "https://ec.europa.eu/health/documents/community-register/html/",
@@ -239,6 +239,20 @@
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.9"
+    },
+    "Soberana-02": {
+      "display": "Soberana 02",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.10"
+    },
+    "Soberana-Plus": {
+      "display": "Soberana Plus",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccineproductname",
+      "version": "1.10"
     }
   }
 }

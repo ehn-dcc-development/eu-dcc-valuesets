@@ -204,6 +204,13 @@
       "active": true,
       "system": "https://spor.ema.europa.eu/v1/organisations",
       "version": ""
+    },
+    "Finlay-Institute": {
+      "display": "Finlay Institute of Vaccines",
+      "lang": "en",
+      "active": true,
+      "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
+      "version": "1.10"
     }
   }
 }
