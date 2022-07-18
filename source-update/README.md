@@ -5,7 +5,7 @@
 
 > **Note**
 > 
-> THIS SCRIPT IS DEPRECATED. The generation of the rapid antigen tests (RATs) value set is managed by the DCC Gateway,
+> This script is now deprecated and will not be kept up-to-date. Currently, due to changes in the source JSON format the script is not functional. The generation of the rapid antigen tests (RATs) value set is managed by the DCC Gateway,
 > see •	https://github.com/eu-digital-green-certificates/dgc-gateway/blob/main/src/main/java/eu/europa/ec/dgc/gateway/service/RatValuesetUpdateService.java
 
 This repository contains scripts that are used to update the value set for the common list of rapid antigen tests (RATs) referenced by the EU Digital COVID Certificate (DCC) [JSON Schema](https://github.com/ehn-dcc-development/ehn-dcc-schema).
