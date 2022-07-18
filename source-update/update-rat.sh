@@ -2,7 +2,7 @@
 curl --silent --show-error https://covid-19-diagnostics.jrc.ec.europa.eu/devices/hsc-common-recognition-rat | jq \
 '{
   "valueSetId": "covid-19-lab-test-manufacturer-and-name",
-  "valueSetDate": now | todate,
+  "valueSetDate": now | strftime("%Y-%m-%d"),
   "valueSetValues":
 (reduce .[] as $i ({}; .[$i.id_device] =
 ($i.hsc_list_history | sort_by(.list_date)[-1]) as $latest |
