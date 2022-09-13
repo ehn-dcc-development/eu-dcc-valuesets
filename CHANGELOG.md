@@ -1,5 +1,19 @@
 # Change log
 
+
+## Release 2.9.0
+
+* Update to eHN guidelines document for value sets, version 1.11:
+    1. New vaccine entry added: “COVID-19 Vaccine Valneva“, ID'd as “EU/1/21/1624”, and previously known as VLA2001.
+       (This entry does not have an explicit version because it's an EMA-approved vaccine, and EMA has their own versioning system.)
+    2. Existing vaccine ID as “VLA2001” has been deprecated.
+       This is expressed in its entry by:
+        * Adding the postfix ` (deprecated)` to the `display` field's value;
+        * Setting the `active` field's value to `false`, indicating that this vaccine ID should not be used anymore for new vaccines.
+
+  The [guidelines document v1.11 has **yet to be** adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
+
 ## Release 2.8.0
 
 * Update to eHN guidelines document for value sets, version 1.10:
