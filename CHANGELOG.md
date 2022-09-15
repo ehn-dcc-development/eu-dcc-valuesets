@@ -11,7 +11,7 @@
         * Adding the postfix ` (deprecated)` to the `display` field's value;
         * Setting the `active` field's value to `false`, indicating that this vaccine ID should not be used anymore for new vaccines.
 
-  The [guidelines document v1.11 has **yet to be** adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+  The [guidelines document v1.11 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
 
 
 ## Release 2.8.0
