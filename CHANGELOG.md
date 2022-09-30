@@ -1,5 +1,29 @@
 # Change log
 
+
+## Release 2.9.0
+
+* Update to eHN guidelines document for value sets, version 1.11:
+    1. New vaccine entry added: “COVID-19 Vaccine Valneva“, ID'd as “EU/1/21/1624”, and previously known as VLA2001.
+       (This entry does not have an explicit version because it's an EMA-approved vaccine, and EMA has their own versioning system.)
+    2. Existing vaccine ID as “VLA2001” has been deprecated.
+       This is expressed in its entry by:
+        * Adding the postfix ` (deprecated)` to the `display` field's value;
+        * Setting the `active` field's value to `false`, indicating that this vaccine ID should not be used anymore for new vaccines.
+
+  The [guidelines document v1.11 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
+
+## Release 2.8.0
+
+* Update to eHN guidelines document for value sets, version 1.10:
+  1. Change of the name of one vaccine: Jcovden, formerly known as “COVID-19 Vaccine Janssen”
+  2. New vaccines: Soberana 02, and Soberana Plus
+  3. New vaccine marketing authorization holder or manufacturer: Finlay-Institute
+
+  The [guidelines document v1.10 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
+
 ## Release 2.7.0
 
 * Update to eHN guidelines document for value sets, version 1.9:
@@ -20,6 +44,7 @@
         - Yisheng Biopharma
         - Sinocelltech Ltd.
         - Medicago Inc.
+    4. (Small adjustment to the values of the display name fields for Covaxin and Covishield.)
 
   The [guidelines document v1.9 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
 
