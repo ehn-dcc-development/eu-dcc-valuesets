@@ -1,6 +1,21 @@
 # Change log
 
 
+## Release 2.10.0
+
+* Update to eHN guidelines document for value sets, version 1.13:
+    1. New vaccine entry added: “VidPrevtyn Beta“, ID'd as “EU/1/21/1580”, and previously known as “Vidprevtyn” (which is both its display name and its ID).
+       This new entry does not have an explicit version because it's an EMA-approved vaccine, and EMA has their own versioning system.
+    2. Existing vaccine ID'd as “Vidprevtyn” has been deprecated.
+       This is expressed in the corresponding entry in the `vaccines-covid-19-names` value set by:
+        * Adding the postfix ` (deprecated)` to the `display` field's value;
+        * Setting the `active` field's value to `false`, indicating that this vaccine ID should not be used anymore for new vaccines.
+
+  The [guidelines document v1.13 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
+  Version 1.12 of this document has also been adopted after v1.11, but v1.12 only adds a textual clarification which has no impact on the (implementation of the) value sets themselves, and which has been removed again in v1.13.
+
+
 ## Release 2.9.0
 
 * Update to eHN guidelines document for value sets, version 1.11:

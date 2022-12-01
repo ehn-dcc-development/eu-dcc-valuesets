@@ -1,6 +1,6 @@
 {
   "valueSetId": "vaccines-covid-19-names",
-  "valueSetDate": "2022-09-13",
+  "valueSetDate": "2022-11-30",
   "valueSetValues": {
     "EU/1/20/1528": {
       "display": "Comirnaty",
@@ -171,9 +171,9 @@
       "version": "1.8"
     },
     "Vidprevtyn": {
-      "display": "Vidprevtyn",
+      "display": "Vidprevtyn (deprecated)",
       "lang": "en",
-      "active": true,
+      "active": false,
       "system": "http://ec.europa.eu/temp/vaccineproductname",
       "version": "1.8"
     },
@@ -256,6 +256,13 @@
     },
     "EU/1/21/1624": {
       "display": "COVID-19 Vaccine Valneva",
+      "lang": "en",
+      "active": true,
+      "system": "https://ec.europa.eu/health/documents/community-register/html/",
+      "version": ""
+    },
+    "EU/1/21/1580": {
+      "display": "VidPrevtyn Beta",
       "lang": "en",
       "active": true,
       "system": "https://ec.europa.eu/health/documents/community-register/html/",
