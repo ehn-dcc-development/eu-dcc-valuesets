@@ -1,6 +1,6 @@
 {
   "valueSetId": "vaccines-covid-19-names",
-  "valueSetDate": "2022-09-13",
+  "valueSetDate": "2022-11-30",
   "valueSetValues": {
     "EU/1/20/1528": {
       "display": "Comirnaty",
