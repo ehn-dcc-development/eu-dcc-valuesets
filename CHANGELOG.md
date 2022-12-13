@@ -1,5 +1,9 @@
 # Change log
 
+## Release 2.11.0
+
+* Add a value set that encodes Annex A of the guidelines document.
+
 
 ## Release 2.10.0
 
@@ -13,7 +17,7 @@
 
   The [guidelines document v1.13 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
 
-  Version 1.12 of this document has also been adopted after v1.11, but v1.12 only adds a textual clarification which has no impact on the (implementation of the) value sets themselves, and which has been removed again in v1.13.
+  Version 1.12 of this document has also been adopted after v1.11, but v1.12 only adds a textual clarification which has no impact on the (implementation of the) value sets themselves, and an Annex B which has been removed again in v1.13.
 
 
 ## Release 2.9.0
