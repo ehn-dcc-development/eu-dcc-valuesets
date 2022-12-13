@@ -105,7 +105,7 @@ if (duplicateKeyEntries.length > 0) {
 
 const valueSet = {
     "valueSetId": "vaccines-covid-19-encoding-instructions",
-    "valueSetDate": "2022-12-12",
+    "valueSetDate": new Date().toISOString().slice(0, 10),
     "valueSetValues": Object.fromEntries(keyedEncodings)
 }
 

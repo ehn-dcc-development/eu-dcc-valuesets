@@ -2,7 +2,8 @@
 
 ## Release 2.11.0
 
-* Add a value set that encodes Annex A of the guidelines document.
+* Add a value set that encodes Annex A of the guidelines document, including its derivation.
+  See the [README](./annex-A/README.md) for more details.
 
 
 ## Release 2.10.0

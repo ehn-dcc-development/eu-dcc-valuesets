@@ -1,6 +1,6 @@
 {
   "valueSetId": "vaccines-covid-19-encoding-instructions",
-  "valueSetDate": "2022-12-12",
+  "valueSetDate": "2022-12-13",
   "valueSetValues": {
     "Comirnaty": {
       "vaccine-code": "EU/1/20/1528",
