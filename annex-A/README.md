@@ -20,8 +20,12 @@ The steps to perform are:
   If derivation of that file fails, then the file is *not* updated.
   In principle, you'd expect the top-level `valueSetDate` field to be updated (to the date of today).
   You could also inspect that file's metadata to be sure.
-4. Compare the updated file against the last version committed to the Git versioning system.
+4. Inspect the console.
+  The derivation prints issues (error, warnings, infos) there (if there are any).
+  If there are any manufacturers that are associated with multiple vaccines, a piece of JSON detailing those associations is printed to the console.
+5. Compare the updated file against the last version committed to the Git versioning system.
   If there are more differences between these versions than expected, you need to have to look at the [`annex-A/table.tsv` file](./table.tsv) to see whether (and if so, how) that needs to be tweaked.
+  Issues printed to the console by running the script might help as well.
 
 The derivation relies on the Deno runtime for JavaScript/TypeScript.
 It can be found and downloaded at https://deno.land/.
