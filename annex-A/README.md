@@ -1,7 +1,7 @@
 # Vaccine encoding instructions
 
 Annex A of the [document on “eHealth Network Guidelines on Value Sets
-for EU Digital COVID Certificates”](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf)(eHN, DCC) contains a table that shows the coding combina8ons of the different vaccine medicinal products with their recommended ATC or SNOMED CT ‘Vaccine’ concept, along with their corresponding marketing authorization holder or manufacturer.
+for EU Digital COVID Certificates”](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf)(eHN, DCC) contains a table that shows the coding combinations of the different vaccine medicinal products with their recommended ATC or SNOMED CT ‘Vaccine’ concept, along with their corresponding marketing authorization holder or manufacturer.
 The table is included to assist implementation efforts.
 
 Until release version 2.10.0 of the eHN EU DCC value sets the table in this Annex A was not encoded in a JSON format in this repository.
