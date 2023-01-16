@@ -1,4 +1,4 @@
-# EU eHealthNetwork Digitial COVID Certificate RAT list update script
+# EU eHealthNetwork Digital COVID Certificate RAT list update script
 
 
 
