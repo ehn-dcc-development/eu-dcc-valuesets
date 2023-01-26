@@ -50,13 +50,13 @@ const prophylaxis = readAsJson("../vaccine-prophylaxis.json")
 const deprecationPostfix = " (deprecated)"
 keyedEncodings.forEach(([key, mapping], i) => {
 
-    const rowInfix = `@ encoding row ${i+1} for "${key}"`
+    const rowInfix = `@ mapping row ${i+2} for "${key}"`
     const warnHeader = `[WARN] ${rowInfix}:`
 
     const vaccineCode = mapping["vaccine-code"]
     const withoutDeprecation = vaccineCode.endsWith(deprecationPostfix) ? vaccineCode.substring(0, vaccineCode.length - deprecationPostfix.length) : vaccineCode
     if (vaccineCode.endsWith(deprecationPostfix)) {
-        console.info(`[INFO] ${rowInfix}: vaccine code "${withoutDeprecation}" occurs with deprecation postfix`)
+        console.info(`[INFO] ${rowInfix}: vaccine with code "${withoutDeprecation}" occurs even though the vaccine's been deprecated`)
     }
 
     if (!(withoutDeprecation in medicinalProduct.valueSetValues)) {
@@ -74,7 +74,12 @@ keyedEncodings.forEach(([key, mapping], i) => {
         console.warn(`${warnHeader} mappings to duplicate prophylaxes occur`)
     }
     mapping["sct-codes"].forEach((sctCode) => {
-        if (!(sctCode in prophylaxis.valueSetValues)) {
+        if (sctCode in prophylaxis.valueSetValues) {
+            const sct = prophylaxis.valueSetValues[sctCode]
+            if (!sct["active"]) {
+                console.warn(`${warnHeader} prophylaxis code "${sctCode}" is used despite it being deprecated`)
+            }
+        } else {
             console.warn(`${warnHeader} prophylaxis code "${sctCode}" doesn't exist in value set "sct-vaccines-covid-19"`)
         }
     })
@@ -88,7 +93,8 @@ const manufacturersWithMultipleVaccines =
         .map(([key, encodings]) => [key, encodings.map(([_, mapping]) => mapping["vaccine-code"])])
 
 if (manufacturersWithMultipleVaccines.length > 0) {
-    console.log(`manufacturers with more than 1 vaccine:`)
+    console.log()
+    console.log(`[INFO] manufacturers with more than 1 vaccine:`)
     console.dir(manufacturersWithMultipleVaccines)
 }
 

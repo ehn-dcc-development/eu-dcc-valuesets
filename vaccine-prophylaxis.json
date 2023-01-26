@@ -1,14 +1,7 @@
 {
   "valueSetId": "sct-vaccines-covid-19",
-  "valueSetDate": "2021-04-27",
+  "valueSetDate": "2023-01-25",
   "valueSetValues": {
-    "1119349007": {
-      "display": "SARS-CoV-2 mRNA vaccine",
-      "lang": "en",
-      "active": true,
-      "version": "http://snomed.info/sct/900000000000207008/version/20210131",
-      "system": "http://snomed.info/sct"
-    },
     "1119305005": {
       "display": "SARS-CoV-2 antigen vaccine",
       "lang": "en",
@@ -16,10 +9,17 @@
       "version": "http://snomed.info/sct/900000000000207008/version/20210131",
       "system": "http://snomed.info/sct"
     },
-    "J07BX03": {
-      "display": "covid-19 vaccines",
+    "1119349007": {
+      "display": "SARS-CoV-2 mRNA vaccine",
       "lang": "en",
       "active": true,
+      "version": "http://snomed.info/sct/900000000000207008/version/20210131",
+      "system": "http://snomed.info/sct"
+    },
+    "J07BX03": {
+      "display": "covid-19 vaccines (deprecated)",
+      "lang": "en",
+      "active": false,
       "version": "2021-01",
       "system": "http://www.whocc.no/atc"
     },
@@ -42,6 +42,27 @@
       "lang": "en",
       "active": true,
       "version": "2022-01-31",
+      "system": "http://snomed.info/sct"
+    },
+    "28531000087107": {
+      "display": "COVID-19 vaccine",
+      "lang": "en",
+      "active": true,
+      "version": "2022-12-31",
+      "system": "http://snomed.info/sct"
+    },
+    "30141000087107": {
+      "display": "SARS-CoV-2 virus-like particle antigen vaccine",
+      "lang": "en",
+      "active": true,
+      "version": "2022-12-31",
+      "system": "http://snomed.info/sct"
+    },
+    "1187593009": {
+      "display": "SARS-CoV-2 DNA plasmid encoding spike protein vaccine",
+      "lang": "en",
+      "active": true,
+      "version": "2022-12-31",
       "system": "http://snomed.info/sct"
     }
   }

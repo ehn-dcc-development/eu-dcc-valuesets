@@ -1,39 +1,39 @@
 Vaccine name	Vaccine code	Vaccine Manufacturer or MAH code	Vaccine type	Note
-Comirnaty	EU/1/20/1528	ORG-100030215	1119349007 or J07BX03	The same code should be used also for adapted Comirnaty vaccines (such as bivalent Original/Omicron BA.1 and Original/Omicron BA.4-5) unless indicated otherwise.
-Spikevax	EU/1/20/1507	ORG-100031184	1119349007 or J07BX03	"Previously COVID-19 Vaccine Moderna. The same code should be used also for adapted Spikevax vaccines (such as bivalent Original/Omicron BA.1) unless indicated otherwise."
-"Vaxzevria"	EU/1/21/1529	"ORG-100001699"	J07BX03 or 29061000087103	Use also for AstraZeneca covid-19 vaccines, except R-COVI, Covishield and Covid-19 (recombinant) by Fiocruz.
-Jcovden	EU/1/20/1525	ORG-100001417	J07BX03 or 29061000087103	Previously known as COVID-19 Vaccine Janssen.
-CVnCoV	CVnCoV	ORG-100006270	1119349007 or J07BX03
-NVX-CoV2373	"NVX-CoV2373 (deprecated)"	ORG-100032020	J07BX03 or 1162643001	Do not use this code for new certificates, see entry for Nuvaxovid.
-Sputnik V	Sputnik-V	Gamaleya-Research-Institute	J07BX03 or 29061000087103
-Convidecia	Convidecia	ORG-100013793	J07BX03 or 29061000087103
-EpiVacCorona	EpiVacCorona	Vector-Institute	J07BX03 or 1162643001
-BBIBP-CorV	BBIBP-CorV	ORG-100020693	J07BX03 or 1157024006
-Inactivated SARS-CoV-2 (Vero Cell)	Inactivated-SARS-CoV-2-Vero-Cell	ORG-100010771	J07BX03 or 1157024006	Do not use this code for new certificates, see entry for WIBP-CorV.
-CoronaVac	CoronaVac	Sinovac-Biotech	J07BX03 or 1157024006	Do not use for Vacina adsorvida covid-19 (inativada) by Institito Butantan.
-Covaxin	Covaxin	Bharat-Biotech	J07BX03 or 1157024006	Also known as BBV152 A, B, C.
-Covishield	Covishield	ORG-100001981	J07BX03 or 29061000087103	Also known as ChAdOx1_nCoV-19.
-Covid-19 (recombinant)	Covid-19-recombinant	Fiocruz	J07BX03 or 29061000087103
-R-COVI	R-COVI	ORG-100007893	J07BX03 or 29061000087103
-CoviVac	CoviVac	Chumakov-Federal-Scientific-Center	J07BX03 or 1157024006
-Sputnik Light	Sputnik-Light	Gamaleya-Research-Institute	J07BX03 or 29061000087103
-Hayat-Vax	Hayat-Vax	ORG-100023050	J07BX03 or 1157024006
-Abdala	Abdala	CIGB	J07BX03	Also known as CIGB-66.
-WIBP-CorV	WIBP-CorV	Sinopharm-WIBP	J07BX03 or 1157024006	Previously known as Inactivated SARS-CoV-2 (Vero Cell).
-MVC COVID-19 vaccine	MVC-COV1901	ORG-100033914	J07BX03 or 1162643001	Also known as Medigen COVID-19 vaccine.
-Nuvaxovid	EU/1/21/1618	ORG-100032020	J07BX03 or 1162643001	Previously known as NVX-CoV2373.
-Covovax	Covovax	ORG-100001981	J07BX03 or 1162643001	Do not confuse with Nuvaxovid.
-Vidprevtyn	"Vidprevtyn (deprecated)"	ORG-100000788	J07BX03	Do not use this code for new certificates, see entry for VidPrevtyn Beta.
-VLA2001	"VLA2001 (deprecated)"	ORG-100036422	J07BX03	Do not use this code for new certificates, see entry for COVID-19 Vaccine (inactivated, adjuvanted) Valneva.
-Sputnik M	Sputnik-M	Gamaleya-Research-Institute	J07BX03 or 29061000087103	Do not confuse with Sputnik V or Sputnik Light.
-EpiVacCorona-N	EpiVacCorona-N	Vector-Institute	J07BX03 or 1162643001	Do not confuse with EpiVacCorona. Also know as Aurora-CoV.
-Vacina adsorvida covid-19 (inativada)	Covid-19-adsorvida-inativada	Instituto-Butantan	J07BX03 or 1157024006
-NVSI-06-08	NVSI-06-08	NVSI	J07BX03	Also known as Recombinant SARS-CoV-2 vaccine (CHO Cell).
-YS-SC2-010	YS-SC2-010	Yisheng-Biopharma	J07BX03	Also known as PIKA-Adjuvanted Recombinant SARS-CoV-2 Spike (S) Protein Subunit vaccine.
-SCTV01C	SCTV01C	ORG-100026614	J07BX03	Also known as Bivalent Recombinant Trimeric S Protein vaccine.
-Covifenz	Covifenz	ORG-100008549	J07BX03	Also known as CoVLP and Medicago plant-based VLP.
-AZD2816	AZD2816	"ORG-100001699"	J07BX03 or 29061000087103
-Soberana 02	Soberana-02	Finlay-Institute	J07BX03	Also known as FINLAY-FR-2.
-Soberana Plus	Soberana-Plus	Finlay-Institute	J07BX03	Also known as FINLAY-FR-1A.
-COVID-19 Vaccine Valneva	"EU/1/21/1624"	ORG-100036422	J07BX03	Previously known as VLA2001.
-VidPrevtyn Beta	EU/1/21/1580	ORG-100000788	J07BX03	Previously known as Vidprevtyn.
+Comirnaty	EU/1/20/1528	ORG-100030215	1119349007 or 28531000087107	The same code should be used also for adapted Comirnaty vaccines (such as bivalent Original/Omicron BA.1 and Original/Omicron BA.4-5) unless indicated otherwise.
+Spikevax	EU/1/20/1507	ORG-100031184	1119349007 or 28531000087107	"Previously COVID-19 Vaccine Moderna. The same code should be used also for adapted Spikevax vaccines (such as bivalent Original/Omicron BA.1) unless indicated otherwise."
+"Vaxzevria"	EU/1/21/1529	"ORG-100001699"	28531000087107 or 29061000087103	Use also for AstraZeneca covid-19 vaccines, except R-COVI, Covishield and Covid-19 (recombinant) by Fiocruz.
+Jcovden	EU/1/20/1525	ORG-100001417	28531000087107 or 29061000087103	Previously known as COVID-19 Vaccine Janssen.
+CVnCoV	CVnCoV	ORG-100006270	1119349007 or 28531000087107
+NVX-CoV2373	"NVX-CoV2373 (deprecated)"	ORG-100032020	28531000087107 or 1162643001	Do not use this code for new certificates, see entry for Nuvaxovid.
+Sputnik V	Sputnik-V	Gamaleya-Research-Institute	28531000087107 or 29061000087103
+Convidecia	Convidecia	ORG-100013793	28531000087107 or 29061000087103
+EpiVacCorona	EpiVacCorona	Vector-Institute	28531000087107 or 1162643001
+BBIBP-CorV	BBIBP-CorV	ORG-100020693	28531000087107 or 1157024006
+Inactivated SARS-CoV-2 (Vero Cell)	Inactivated-SARS-CoV-2-Vero-Cell	ORG-100010771	28531000087107 or 1157024006	Do not use this code for new certificates, see entry for WIBP-CorV.
+CoronaVac	CoronaVac	Sinovac-Biotech	28531000087107 or 1157024006	Do not use for Vacina adsorvida covid-19 (inativada) by Institito Butantan.
+Covaxin	Covaxin	Bharat-Biotech	28531000087107 or 1157024006	Also known as BBV152 A, B, C.
+Covishield	Covishield	ORG-100001981	28531000087107 or 29061000087103	Also known as ChAdOx1_nCoV-19.
+Covid-19 (recombinant)	Covid-19-recombinant	Fiocruz	28531000087107 or 29061000087103
+R-COVI	R-COVI	ORG-100007893	28531000087107 or 29061000087103
+CoviVac	CoviVac	Chumakov-Federal-Scientific-Center	28531000087107 or 1157024006
+Sputnik Light	Sputnik-Light	Gamaleya-Research-Institute	28531000087107 or 29061000087103
+Hayat-Vax	Hayat-Vax	ORG-100023050	28531000087107 or 1157024006
+Abdala	Abdala	CIGB	28531000087107	Also known as CIGB-66.
+WIBP-CorV	WIBP-CorV	Sinopharm-WIBP	28531000087107 or 1157024006	Previously known as Inactivated SARS-CoV-2 (Vero Cell).
+MVC COVID-19 vaccine	MVC-COV1901	ORG-100033914	28531000087107 or 1162643001	Also known as Medigen COVID-19 vaccine.
+Nuvaxovid	EU/1/21/1618	ORG-100032020	28531000087107 or 1162643001	Previously known as NVX-CoV2373.
+Covovax	Covovax	ORG-100001981	28531000087107 or 1162643001	Do not confuse with Nuvaxovid.
+Vidprevtyn	"Vidprevtyn (deprecated)"	ORG-100000788	28531000087107	Do not use this code for new certificates, see entry for VidPrevtyn Beta.
+VLA2001	"VLA2001 (deprecated)"	ORG-100036422	28531000087107	Do not use this code for new certificates, see entry for COVID-19 Vaccine (inactivated, adjuvanted) Valneva.
+Sputnik M	Sputnik-M	Gamaleya-Research-Institute	28531000087107 or 29061000087103	Do not confuse with Sputnik V or Sputnik Light.
+EpiVacCorona-N	EpiVacCorona-N	Vector-Institute	28531000087107 or 1162643001	Do not confuse with EpiVacCorona. Also know as Aurora-CoV.
+Vacina adsorvida covid-19 (inativada)	Covid-19-adsorvida-inativada	Instituto-Butantan	28531000087107 or 1157024006
+NVSI-06-08	NVSI-06-08	NVSI	28531000087107	Also known as Recombinant SARS-CoV-2 vaccine (CHO Cell).
+YS-SC2-010	YS-SC2-010	Yisheng-Biopharma	28531000087107	Also known as PIKA-Adjuvanted Recombinant SARS-CoV-2 Spike (S) Protein Subunit vaccine.
+SCTV01C	SCTV01C	ORG-100026614	28531000087107	Also known as Bivalent Recombinant Trimeric S Protein vaccine.
+Covifenz	Covifenz	ORG-100008549	28531000087107	Also known as CoVLP and Medicago plant-based VLP.
+AZD2816	AZD2816	"ORG-100001699"	28531000087107 or 29061000087103
+Soberana 02	Soberana-02	Finlay-Institute	28531000087107	Also known as FINLAY-FR-2.
+Soberana Plus	Soberana-Plus	Finlay-Institute	28531000087107	Also known as FINLAY-FR-1A.
+COVID-19 Vaccine Valneva	"EU/1/21/1624"	ORG-100036422	28531000087107	Previously known as VLA2001.
+VidPrevtyn Beta	EU/1/21/1580	ORG-100000788	28531000087107	Previously known as Vidprevtyn.
