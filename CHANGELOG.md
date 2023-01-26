@@ -4,6 +4,14 @@
 
 * Add a value set that encodes Annex A of the guidelines document, including its derivation.
   See the [README](./annex-A/README.md) for more details.
+* W.r.t. the ["COVID-19 vaccine or prophylaxis" value set](./vaccine-prophylaxis.json), corresponding to the table in § 2.2 in the guidelines document:
+    1. The "J07BX03" ACT code has been deprecated by setting its `active` field's value to `false` and adding a postfix ` (deprecated)` to the `display` field's value.
+    2. The first two entries, for codes "1119349007" and "1119305005", have been swapped to match the order in the document's table.
+    3. Entries for SCT codes "28531000087107" (which replaces the "J07BX03" ACT code), "30141000087107", and "1187593009" have been added.
+* W.r.t. to the ["vaccine encoding instructions" value set](./vaccine-encoding-instructions.json), corresponding to Annex A of the guidelines document:
+    1. All occurrences of the "J07BX03" ACT code in , have been replaced by the "28531000087107" SCT code.
+    2. The derivation script for this value set has been updated to check for deprecated ACT/SCT codes.
+       (It also reports the correct row numbers now.)
 
 
 ## Release 2.10.0
