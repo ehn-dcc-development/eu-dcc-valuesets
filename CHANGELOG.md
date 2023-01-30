@@ -1,5 +1,18 @@
 # Change log
 
+## Release 2.11.0
+
+* Add a value set that encodes Annex A of the guidelines document, including its derivation.
+  See the [README](./annex-A/README.md) for more details.
+* W.r.t. the ["COVID-19 vaccine or prophylaxis" value set](./vaccine-prophylaxis.json), corresponding to the table in § 2.2 in the guidelines document:
+    1. The "J07BX03" ACT code has been deprecated by setting its `active` field's value to `false` and adding a postfix ` (deprecated)` to the `display` field's value.
+    2. The first two entries, for codes "1119349007" and "1119305005", have been swapped to match the order in the document's table.
+    3. Entries for SCT codes "28531000087107" (which replaces the "J07BX03" ACT code), "30141000087107", and "1187593009" have been added.
+* W.r.t. to the ["vaccine encoding instructions" value set](./vaccine-encoding-instructions.json), corresponding to Annex A of the guidelines document:
+    1. All occurrences of the "J07BX03" ACT code in , have been replaced by the "28531000087107" SCT code.
+    2. The derivation script for this value set has been updated to check for deprecated ACT/SCT codes.
+       (It also reports the correct row numbers now.)
+
 
 ## Release 2.10.0
 
@@ -13,7 +26,7 @@
 
   The [guidelines document v1.13 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
 
-  Version 1.12 of this document has also been adopted after v1.11, but v1.12 only adds a textual clarification which has no impact on the (implementation of the) value sets themselves, and which has been removed again in v1.13.
+  Version 1.12 of this document has also been adopted after v1.11, but v1.12 only adds a textual clarification which has no impact on the (implementation of the) value sets themselves, and an Annex B which has been removed again in v1.13.
 
 
 ## Release 2.9.0
