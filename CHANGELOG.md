@@ -1,5 +1,10 @@
 # Change log
 
+## Release 2.12.0
+
+**TODO**
+
+
 ## Release 2.11.0
 
 * Add a value set that encodes Annex A of the guidelines document, including its derivation.
