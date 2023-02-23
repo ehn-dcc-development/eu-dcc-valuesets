@@ -1,0 +1,131 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "EU DCC Value Sets",
+    "required":
+    [
+        "valueSetId",
+        "valueSetDate",
+        "valueSetValues"
+    ],
+    "type": "object",
+    "definitions":
+    {
+        "standardValue":
+        {
+            "title": "Allowed values in standard Value Set",
+            "type": "object",
+            "patternProperties":
+            {
+                "^.*$":
+                {
+                    "title": "Allowed properties in standard Value Set",
+                    "type": "object",
+                    "properties":
+                    {
+                        "display":
+                        {
+                            "type": "string"
+                        },
+                        "lang":
+                        {
+                            "type": "string"
+                        },
+                        "active":
+                        {
+                            "type": "boolean"
+                        },
+                        "version":
+                        {
+                            "type": "string"
+                        },
+                        "system":
+                        {
+                            " type": "string"
+                        },
+                        "validUntil":
+                        {
+                            "type": "string",
+                            "format": "date"
+                        }
+                    },
+                    "required":
+                    [
+                        "display",
+                        "lang",
+                        "active",
+                        "version",
+                        "system"
+                    ]
+                }
+            }
+        },
+        "vaccineEncodingValue":
+        {
+            "title": "Allowed values in vaccine encoding Value Set",
+            "type": "object",
+            "patternProperties":
+            {
+                "^.*$":
+                {
+                    "title": "Allowed properties in vaccine encoding Value Set",
+                    "type": "object",
+                    "properties":
+                    {
+                        "vaccine-code":
+                        {
+                            "type": "string"
+                        },
+                        "vaccine-manufacturer":
+                        {
+                            "type": "string"
+                        },
+                        "sct-codes":
+                        {
+                            "type": "array",
+                            "items":
+                            {
+                                "type": "string"
+                            }
+                        },
+                        "note":
+                        {
+                            "type": "string"
+                        }
+                    },
+                    "required":
+                    [
+                        "vaccine-code",
+                        "vaccine-manufacturer",
+                        "sct-codes"
+                    ]
+                }
+            }
+        }
+    },
+    "properties":
+    {
+        "valueSetId":
+        {
+            "title": "Value Set Identifier",
+            "type": "string"
+        },
+        "valueSetDate":
+        {
+            "title": "Value Set Version",
+            "type": "string",
+            "format": "date"
+        },
+        "valueSetValues":
+        {
+            "oneOf":
+            [
+                {
+                    "$ref": "#/definitions/standardValue"
+                },
+                {
+                    "$ref": "#/definitions/vaccineEncodingValue"
+                }
+            ]
+        }
+    }
+}

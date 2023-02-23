@@ -1,0 +1,65 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "title": "EU DCC Value Sets",
+    "required":
+    [
+        "valueSetId",
+        "valueSetDate",
+        "valueSetValues"
+    ],
+    "type": "object",
+    "properties":
+    {
+        "valueSetId":
+        {
+            "title": "Value Set Identifier",
+            "type": "string"
+        },
+        "valueSetDate":
+        {
+            "title": "Value Set Version",
+            "type": "string",
+            "format": "date"
+        },
+        "valueSetValues":
+        {
+            "title": "Allowed values in Value Set",
+            "type": "object",
+            "patternProperties":
+            {
+                "^.*$":
+                {
+                    "properties":
+                    {
+                        "vaccine-code":
+                        {
+                            "type": "string"
+                        },
+                        "vaccine-manufacturer":
+                        {
+                            "type": "string"
+                        },
+                        "ct-codes":
+                        {
+                            "type": "array",
+                            "items":
+                            {
+                                "type": "string"
+                            }
+                        },
+                        "note":
+                        {
+                            "type": "string"
+                        }
+                    }
+                }
+            },
+            "required":
+            [
+                "vaccine-code",
+                "vaccine-manufacturer",
+                "ct-codes"
+            ]
+        }
+    }
+}

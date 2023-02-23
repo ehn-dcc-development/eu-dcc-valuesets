@@ -1,16 +1,20 @@
-SCHEMA_URL= 	https://raw.githubusercontent.com/ehn-dcc-development/ehn-dcc-valuesets/release/2.1.0/valueset.json
-SCHEMA=		./schemas/DCC.valueset.schema.json
+AJV=		./node_modules/.bin/ajv -c ajv-formats --verbose --spec=draft2020 --strict=false
+SCHEMA=		./schemas/DCC.ValueSets.combined.json
+#SCHEMA=		./schemas/DCC.ValueSets.schema.json
+#SCHEMA=		./schemas/vaccine-encoding-instructions.schema.json
 
-AJV=		./node_modules/.bin/ajv -c ajv-formats --spec=draft2020 --strict=false
+# ** TODO **
+# There are two options here I prepared; first the combined schema. That accepts both the vaccine-encoding structure and the
+# standard valueset structure. Downside is that it doesn't constrain files - it's allowing both formats in any file. An alternative 
+# is to have two schema and a list of "exceptions". All json files *except* the exceptions are tested with the default. Exceptions 
+# are tested with the schema linked to them. Logically this is identical to an "default or override."
 
+# Compile the schema and test it against all json files in the root of the repository
 test:
-	#$(AJV) test -s $(SCHEMA) -d "*.json" --valid
+	#$(AJV) test -s "./schemas/DCC.ValueSets.schema.json" -d "*.json" --valid
 	ls *.json
 	ls *.json | grep -E -v "package|valueset" | xargs -I {} $(AJV) test -s $(SCHEMA) -d {} --valid
 
-prepare: 
-	mkdir schemas
-	wget -O $(SCHEMA) $(SCHEMA_URL)
-
+# Installs the ajv pre-reqs
 install-ajv:
 	npm install ajv ajv-cli ajv-formats
