@@ -29,6 +29,8 @@
             {
                 "^.*$":
                 {
+                    "title": "Allowed values in records",
+                    "type": "object",
                     "properties":
                     {
                         "vaccine-code":
@@ -39,7 +41,7 @@
                         {
                             "type": "string"
                         },
-                        "ct-codes":
+                        "sct-codes":
                         {
                             "type": "array",
                             "items":
@@ -51,15 +53,17 @@
                         {
                             "type": "string"
                         }
-                    }
+                    },
+                    "required":
+                    [
+                        "vaccine-code",
+                        "vaccine-manufacturer",
+                        "sct-codes"
+                    ]
                 }
             },
-            "required":
-            [
-                "vaccine-code",
-                "vaccine-manufacturer",
-                "ct-codes"
-            ]
-        }
+            "additionalProperties": false
+        },
+        "additionalProperties": false
     }
 }

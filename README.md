@@ -28,6 +28,36 @@ The JSON Schema definition for the structure used for all of the above valuesets
 
 Finally the we have [changelog](CHANGELOG.md), [license](LICENSE.md) and [versioning](VERSIONING.md) files and, of course, this [readme](README.md).
 
+
+## Working with the valuesets
+
+### Prereqs
+
+[Node.js 18.14.2 or above ](https://nodejs.org/en/)
+NPM 9.5.0 (included with Node.js)
+
+### Validating schema
+
+First lets ask node to install the dependencies:
+
+	npm install
+
+Then to run the schema validator simply:
+
+	npm test
+
+If there are any validation errors they will be shown on the screen.
+
+
+## How the schema and validator work
+
+We use [JSON Schema 2020-12](https://json-schema.org/specification.html) to define the schema of the valuesets. For most of the valuesets there is a [shared schema](schemas/DCC.ValueSets.schema.json).
+
+For files which have a different schema - such as `vaccine-encoding-instructions` - the validator supports the definition of a custom schema. By convention these schema files are named `<valueset-file-name>.schema.json` and are stored in `./schema`. So for `vaccine-encoding-instructions.json` the schema `vaccine-encoding-instructions.schema.json` is used.
+
+The validator code has been written in an imperative style for ease of understanding and [can be found in the schema directory](schemas/validate-valuesets.js).
+
+
 ## Governance
 
 The valuesets are owned by the eHealth Network Subgroup on Semantics (SSG). Any requests for additions or changes must be directed to that group. If you or your country are not members of that subgroup then you can raise an issue on this GitHub repository and, if appropriate, we will raise it with the SSG on your behalf.

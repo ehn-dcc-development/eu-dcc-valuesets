@@ -59,6 +59,7 @@
                             "format": "date"
                         }
                     },
+                    "additionalProperties": false,
                     "required":
                     [
                         "display",
@@ -69,6 +70,7 @@
                     ]
                 }
             }
-        }
+        },
+        "additionalProperties": false
     }
 }

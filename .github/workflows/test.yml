@@ -13,5 +13,5 @@ jobs:
       run: sudo apt-get install jq nodejs
     - name: Install node dependencies
       run: npm install
-    - name: Initialise then run the tests
+    - name: Validate the valuesets
       run: npm test
