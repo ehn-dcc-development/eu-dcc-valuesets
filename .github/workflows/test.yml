@@ -1,0 +1,17 @@
+name: Tests
+
+on: 
+  - push
+  - pull_request
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install general dependencies
+      run: sudo apt-get install jq nodejs
+    - name: Install node dependencies
+      run: npm install
+    - name: Validate the valuesets
+      run: npm test
