@@ -31,10 +31,24 @@ Finally the we have [changelog](CHANGELOG.md), [license](LICENSE.md) and [versio
 
 ## Working with the valuesets
 
-### Prereqs
+### NOTE FOR WINDOWS USERS
+
+The scripts we used are bash-based, if you're a Windows users you will either need to use the amazing [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) or use another [Cygwin](https://www.cygwin.com/).
+
+Although the maintainers are primarily Windows developers the internet - and the git eco-system - are POSIX focused. With the fantastic support for POSIX on modern Windows we have decided to focus on a POSIX-based workflow.
+
+### Pre-reqs
 
 [Node.js 18.14.2 or above ](https://nodejs.org/en/)
 NPM 9.5.0 (included with Node.js)
+
+### Configuring git hooks
+
+This repository makes use of the `pre-commit` git hook. This executes the schema validation scripts (which are described below).
+
+To enable git hooks you need to tell git to use them, you can do that by running this command from the terminal in the root directory of this project:
+
+	git config core.hooksPath hooks
 
 ### Validating schema
 
@@ -47,7 +61,6 @@ Then to run the schema validator simply:
 	npm test
 
 If there are any validation errors they will be shown on the screen.
-
 
 ## How the schema and validator work
 
