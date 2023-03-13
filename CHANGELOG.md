@@ -145,5 +145,5 @@ The [guidelines document v1.5 has been adopted and published](https://ec.europa.
 
 ## Prior releases
 
-Change log for releases before 2.3.0 are available through the [releases page](https://github.com/ehn-dcc-development/ehn-dcc-valuesets/releases).
+Change log for releases before 2.3.0 are available through the [releases page](https://github.com/ehn-dcc-development/eu-dcc-valuesets/releases).
 
