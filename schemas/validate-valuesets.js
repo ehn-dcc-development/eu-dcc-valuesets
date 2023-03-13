@@ -3,7 +3,7 @@ const Ajv2020 = require("ajv/dist/2020"); // see: https://ajv.js.org/json-schema
 const addFormats = require("ajv-formats");
 
 // Default schema to be used if no file-specific one is defined
-const DEFAULT_SCHEMA = 'DCC.ValueSets.schema.json';
+const DEFAULT_SCHEMA = "DCC.ValueSets.schema.json";
 
 // Directories containing schemas/valuesets
 const SCHEMA_DIR = "./schemas/";
@@ -90,25 +90,28 @@ const assertSameSet = (actuals, expecteds, what) => {
 }
 
 
-const EXPECTED_MISSING = [
-    "test-manf.json"
-];
+const SCHEMA_WITH_EXPECTED_VALUESETS = "DCC.ValueSets.schema.json";
+
 const EXPECTED_EXTRA = [
     "test-manf-example.json"
+];
+const EXPECTED_MISSING = [
+    "test-manf.json"
 ];
 
 const removedValuesetsPrefix = (path) => {
     const prefix = "valuesets/";
     if (!path.indexOf(prefix) === 0) {
         exitWithError = true;
-        console.log(`Valueset URI doesn't start with expected prefix "${prefix}" --> check DCC.ValueSets.schema.json in schema repository`)
+        console.log(`Valueset URI doesn't start with expected prefix "${prefix}" --> check ${SCHEMA_WITH_EXPECTED_VALUESETS} in schema repository`);
         return path;
     }
     return path.substring(prefix.length);
 }
 
+const {EU_DCC_SCHEMA_REF} = require("./config");
 
-fetch(new URL("https://raw.githubusercontent.com/ehn-dcc-development/eu-dcc-schema/1.3.2/DCC.ValueSets.schema.json"))
+fetch(new URL(`https://raw.githubusercontent.com/ehn-dcc-development/eu-dcc-schema/${EU_DCC_SCHEMA_REF}/${SCHEMA_WITH_EXPECTED_VALUESETS}`))
     .then((response) => response.json())
     .then((valuesetsRefSchema) => {
         const expectedValuesets = Object.values(valuesetsRefSchema["$defs"])
@@ -131,7 +134,7 @@ fetch(new URL("https://raw.githubusercontent.com/ehn-dcc-development/eu-dcc-sche
             console.log("Validation failed!");
             process.exit(1);
         } else {
-            console.log("Validating entire set against DCC.ValueSets.schema.json in schema repository --> OK")
+            console.log(`Validating entire set against ${SCHEMA_WITH_EXPECTED_VALUESETS} in schema repository --> OK`);
             console.log("Validation succeeded!");
         }
     });

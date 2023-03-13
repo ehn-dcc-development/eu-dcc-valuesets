@@ -69,6 +69,8 @@ We use [JSON Schema 2020-12](https://json-schema.org/specification.html) to defi
 For files which have a different schema - such as `vaccine-encoding-instructions` - the validator supports the definition of a custom schema. By convention these schema files are named `<valueset-file-name>.schema.json` and are stored in `./schema`. So for `vaccine-encoding-instructions.json` the schema `vaccine-encoding-instructions.schema.json` is used.
 
 The validator also checks whether the set of actual valuesets coincides with the set expected by the [EU DCC Schema standard](https://github.com/ehn-dcc-development/eu-dcc-schema/blob/release/1.3.2/DCC.ValueSets.schema.json).
+The exact GitHub reference - being a (release) tag, or branch - is configured through the `EU_DCC_SCHEMA_REF` constant defined in [this config file](./schemas/config.js).
+This constant needs to be updated when a new release of the EU DCC Schema is released, or while being worked on.
 
 The validator code has been written in an imperative style for ease of understanding and [can be found in the schema directory](schemas/validate-valuesets.js).
 
