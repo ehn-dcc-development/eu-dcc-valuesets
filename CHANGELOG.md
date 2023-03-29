@@ -18,6 +18,8 @@
     2. The derivation script for this value set has been updated to check for deprecated ACT/SCT codes.
        (It also reports the correct row numbers now.)
 
+  The [guidelines document v1.14 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
 
 ## Release 2.10.0
 
