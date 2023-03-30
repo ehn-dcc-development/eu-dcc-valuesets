@@ -15,6 +15,7 @@ Here is an overview of the files available in this repository. The column "manag
 
 File name 							 | Description														 | Managed on
 ------------------------------------ | ----------------------------------------------------------------- | ------------
+clinical-trials.json                 | List of clinical trials approved through the HSC                  | GitHub
 country-2-codes.json				 | List of ISO-3166-2 country codes used for issuers 				 | Github
 disease-targeted-agent.json			 | List of diseases/targeted agent (i.e. covid)						 | Github
 test-manf-example.json				 | Example of the test manufacturers value-set						 | DGC Gateway

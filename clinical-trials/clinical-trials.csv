@@ -1,0 +1,167 @@
+COVID-19 Vaccines _EudraCT Results;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+Time run: 07/07/2022 09:25:54;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+This report refers to all trials on COVID-19 Vaccines that NCAs have uploaded in EudraCT. Trials for which information cannot be shared are marked in yellow and are here anonymised, leaving only information on the EU/EEA countries were the trial is planned to be run. Those are trials for which an authorisation from the National Competent Authority and or the Ethics Committee is awaited, or they are approved phase 1 trials conducted solely in adults. ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+A.2 EudraCT Number;A.1 NCA;N. NCA Decision;N. NCA Decision Date;N. IEC Opinion of Application;N. IEC Opinion Date;P. Trial Status;P. Global Trial End;F.4.1 Planned Number of Subjects in Member State;F.4.2.1 Planned Number of Subjects in the EEA;F.4.2.2 Planned Number of Subjects in the Whole Clinical Trial;F.1.1 Age Range <18 yrs;F.1.2 Adults (18-64 years);F.1.3 Elderly (>= 65 years);F.3.3.3 Pregnant Women;A.3 Full Title of the Trial;B.1.1 Sponsor Name of Organisation;A.4.1 Sponsor Protocol Code;B.3.1 and B.3.2 Sponsor Status;E.1.1 Medical Condition to be Investigated;E.7.1 Human Pharmacology (phase I);E.7.1.1 First in Human;E.7.1.2 Bioequivalence Study;E.7.1.3 Other;E.7.2 Therapeutic Exploratory (Phase II);E.7.3 Therapeutic Confirmatory (Phase III);E.7.4 Therapeutic Use (phase IV);F.2.1 Population Female;F.2.2 Population Male;A.5.1 ISRCTN Number;A.5.2 US NCT Number;D.3.1 Product Name;D.3.2 Product Code;A.5.3 WHO UTRN;A.5.4 Other Identifier;D.2.1.1.1 Trade Name;D.3.8 Name of Each Active Substance (INN);D.3.9.3 Other Descriptive Name;D.1.2 and D.1.3 Category
+2020-001483-28;Belgium - FPS Health-DGM;Authorised;7/14/20;Favourable;6/5/20;;;392;392;1045;No;Yes;Yes;No;A Randomized, Double-blind, Placebo-controlled Phase 1/2a Study to Evaluate the Safety, Reactogenicity, and Immunogenicity of Ad26COVS1 in Adults Aged 18 to 55 Years Inclusive and Adults Aged 65 Years and Older;Janssen Vaccines & Prevention B.V.;VAC31518COV1001;Commercial;Healthy volunteers (Prevention of COVID-19);Yes;Yes;No;No;Yes;No;No;Yes;Yes;;;Ad26COVS1;VAC31518;;;;Not available;Ad26COVS1;Test
+2020-002584-63;Spain - AEMPS;Authorised;8/28/20;Favourable;8/25/20;Restarted;No;190;550;550;No;Yes;Yes;No;A Randomized, Double-blind, Placebo-controlled Phase 2a Study to Evaluate a Range of Dose Levels and Vaccination Intervals of Ad26.COV2.S in Healthy Adults Aged 18 to 55 Years Inclusive and Adults Aged 65 Years and Older;Janssen Vaccines & Prevention B.V.;VAC31518COV2001;Commercial;Healthy Volunteers (Prevention of COVID-19);No;No;No;No;Yes;No;No;Yes;Yes;;;Ad26.COV2.S (also known as Ad26COVS1);VAC31518;;;;Not available;Ad26.COV2.S (also known as Ad26COVS1);Test
+2020-002641-42;Germany - PEI;Authorised;9/4/20;Favourable;8/31/20;;;500;500;43998;Yes;Yes;Yes;No;A PHASE 1/2/3, PLACEBO-CONTROLLED, RANDOMIZED, OBSERVER-BLIND, DOSE-FINDING STUDY TO EVALUATE THE SAFETY, TOLERABILITY, IMMUNOGENICITY, AND EFFICACY OF SARS-COV-2 RNA VACCINE CANDIDATES AGAINST COVID-19 IN HEALTHY INDIVIDUALS;BioNTech SE;C4591001;Commercial;Protection against COVID-19;Yes;No;No;Yes;Yes;Yes;No;Yes;Yes;;NCT04368728;BNT162b1;RBP020.3 (PF-07302048);;;;NAP;RPB020.3;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;BNT162b2;RBP020.2 (PF-07302048);;;;NAP;RPB020.2;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;BNT162b2SA;RBP020.11 (PF-07302048);;;;NAP;RBP020.11;Test
+;France - ANSM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;France - ANSM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Spain - AEMPS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2020-003643-29;Belgium - FPS Health-DGM;Authorised;12/15/20;Favourable;12/15/20;;;3000;20000;30000;No;Yes;Yes;Yes;A Randomized, Double-blind, Placebo-controlled Phase 3 Study to Assess the Efficacy and Safety of Ad26.COV2.S for the Prevention of SARS-CoV-2-mediated COVID-19 in Adults Aged 18 Years and Older;Janssen Vaccines & Prevention B.V.;VAC31518COV3009;Commercial;Healthy Volunteers, with or without comorbidities (Prevention of SARS-CoV-2-mediated COVID-19);No;No;No;No;No;Yes;No;Yes;Yes;;;Ad26.COV2.S;VAC31518;;;;Not available;Ad26.COV2.S (also known as Ad26COVS1);Test
+;France - ANSM;Authorised;12/28/20;Favourable;11/10/20;;;2100;20000;30000;No;Yes;Yes;No;A Randomized, Double-blind, Placebo-controlled Phase 3 Study to Assess the Efficacy and Safety of Ad26.COV2.S for the Prevention of SARS-CoV-2-mediated COVID-19 in Adults Aged 18 Years and Older;Janssen Vaccines & Prevention B.V.;VAC31518COV3009;Commercial;Healthy Volunteers, with or without comorbidities (Prevention of SARS-CoV-2-mediated COVID-19);No;No;No;No;No;Yes;No;Yes;Yes;;;Ad26.COV2.S;VAC31518;;;;Not available;Ad26.COV2.S (also known as Ad26COVS1);Test
+;Germany - PEI;Authorised;12/9/20;Favourable;12/16/20;;;600;20000;30000;No;Yes;Yes;Yes;A Randomized, Double-blind, Placebo-controlled Phase 3 Study to Assess the Efficacy and Safety of Ad26.COV2.S for the Prevention of SARS-CoV-2-mediated COVID-19 in Adults Aged 18 Years and Older;Janssen Vaccines & Prevention B.V.;VAC31518COV3009;Commercial;Healthy Volunteers, with or without comorbidities (Prevention of SARS-CoV-2-mediated COVID-19);No;No;No;No;No;Yes;No;Yes;Yes;;;Ad26.COV2.S;VAC31518;;;;Not available;Ad26.COV2.S (also known as Ad26COVS1);Test
+;Spain - AEMPS;Authorised;11/16/20;Favourable;11/16/20;Temporarily Halted;No;2000;20000;30000;No;Yes;Yes;No;A Randomized, Double-blind, Placebo-controlled Phase 3 Study to Assess the Efficacy and Safety of Ad26.COV2.S for the Prevention of SARS-CoV-2-mediated COVID-19 in Adults Aged 18 Years and Older;Janssen Vaccines & Prevention B.V.;VAC31518COV3009;Commercial;Healthy Volunteers, with or without comorbidities (Prevention of SARS-CoV-2-mediated COVID-19);No;No;No;No;No;Yes;No;Yes;Yes;;;Ad26.COV2.S;VAC31518;;;;Not available;Ad26.COV2.S (also known as Ad26COVS1);Test
+;Netherlands - Competent Authority;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Spain - AEMPS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Germany - PEI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Estonia - SAM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2020-004272-17;Belgium - FPS Health-DGM;Authorised;3/25/21;Favourable;3/25/21;;;850;1500;30000;Yes;Yes;Yes;No;A Double-blind, Randomized, Controlled, Phase 2/3 Study to Evaluate the Efficacy, Immunogenicity, and Safety of CpG 1018/Alum-Adjuvanted Recombinant SARS-CoV-2 Trimeric S-protein Subunit Vaccine (SCB-2019) for the Prevention of SARS-CoV-2-mediated COVID-19 in Participants Aged 12 years and Older;Clover Biopharmaceuticals AUS Pty Ltd;CLO-SCB-2019-003;Commercial;SARS-CoV-2-mediated COVID-19;No;No;No;No;Yes;Yes;No;Yes;Yes;;;SCB-2019 (CpG 1018/Alum-djuvanted SCB-2019);SCB-2019;;;;Not available;SARS-CoV-2 spike trimer fusion protein, recombinant;Test
+;Germany - PEI;Authorised;5/17/21;Favourable;4/15/21;;;800;2000;22000;No;Yes;Yes;No;A Double-Blind, Randomized, Controlled, Phase 2/3 Study to Evaluate the Efficacy, Immunogenicity, and Safety of CpG 1018/Alum-Adjuvanted Recombinant SARS-CoV-2 Trimeric S-protein Subunit Vaccine (SCB-2019) for the Prevention of SARS-CoV-2-mediated COVID-19 in Participants Aged 18 years and Older;Clover Biopharmaceuticals AUS Pty Ltd;CLO-SCB-2019-003;Commercial;SARS-CoV-2-mediated COVID-19;No;No;No;No;Yes;Yes;No;Yes;Yes;;;SCB-2019 (CpG 1018/Alum-djuvanted SCB-2019);SCB-2019;;;;Not available;SARS-CoV-2 spike trimer fusion protein, recombinant;Test
+;France - ANSM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Netherlands - Competent Authority;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Spain - AEMPS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2020-005442-42;Finland - Fimea;Authorised;4/28/21;Favourable;4/27/21;;;1156;3088;15590;Yes;No;No;No;A PHASE 1, OPEN-LABEL DOSE-FINDING STUDY TO EVALUATE SAFETY, TOLERABILITY, AND IMMUNOGENICITY AND PHASE 2/3 PLACEBOCONTROLLED, OBSERVER-BLINDED SAFETY, TOLERABILITY, AND IMMUNOGENICITY STUDY OF A SARS-COV-2 RNA VACCINE CANDIDATE AGAINST COVID-19 IN HEALTHY CHILDREN AND YOUNG ADULTS;BioNTech SE;C4591007;Commercial;Protection against COVID-19;Yes;No;No;Yes;Yes;Yes;No;Yes;Yes;;;BNT162b2;RBP020.2 (PF-07302048);;;COMIRNATY;NAP;Tozinameran;Test
+;Poland - Office for Medicinal Products;Authorised;4/27/21;Favourable;4/29/21;;;1035;3088;15590;Yes;No;No;No;A PHASE 1, OPEN-LABEL DOSE-FINDING STUDY TO EVALUATE SAFETY, TOLERABILITY, AND IMMUNOGENICITY AND PHASE 2/3 PLACEBOCONTROLLED, OBSERVER-BLINDED SAFETY, TOLERABILITY, AND IMMUNOGENICITY STUDY OF A SARS-COV-2 RNA VACCINE CANDIDATE AGAINST COVID-19 IN HEALTHY CHILDREN AND YOUNG ADULTS;BioNTech SE;C4591007;Commercial;Protection against COVID-19;Yes;No;No;Yes;Yes;Yes;No;Yes;Yes;;;BNT162b2;RBP020.2 (PF-07302048);;;COMIRNATY;NAP;Tozinameran;Test
+2020-005444-35;Spain - AEMPS;Authorised;4/15/21;Favourable;4/13/21;;;316;275;4000;Yes;Yes;No;Yes;A PHASE 2/3, PLACEBO-CONTROLLED, RANDOMIZED, OBSERVER-BLIND STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF A SARS-COV-2 RNA VACCINE CANDIDATE (BNT162b2) AGAINST COVID-19 IN HEALTHY PREGNANT WOMEN 18 YEARS OF AGE AND OLDER;BioNTech SE;C4591015;Commercial;Protection against COVID-19;No;No;No;No;Yes;Yes;No;Yes;No;;;BNT162b2;RBP020.2 (PF-07302048);;;COMIRNATY;NAP;Tozinameran;Test
+;Spain - AEMPS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2020-005801-14;Germany - PEI;Authorised;1/28/21;Favourable;2/15/21;;;250;750;1590;No;Yes;No;No;A Randomized, Double-blind, Phase 3 Study to Evaluate 6 Dose Levels of Ad26.COV2.S Administered As a Two-Dose Schedule in Healthy Adults;Janssen Vaccines & Prevention B.V.;VAC31518COV3003;Commercial;Healthy Volunteers (Prevention of SARS-CoV-2-mediated COVID-19);No;No;No;No;No;Yes;No;Yes;Yes;;;Ad26.COV2.S;VAC31518;;;;Not available;Ad26.COV2.S;Test
+;Poland - Office for Medicinal Products;Authorised;2/8/21;Favourable;1/12/21;;;570;750;1350;No;Yes;No;No;A Randomized, Double-blind, Phase 3 Study to Evaluate 6 Dose Levels of Ad26.COV2.S Administered As a Two-Dose Schedule in Healthy Adults;Janssen Vaccines & Prevention B.V.;VAC31518COV3003;Commercial;Healthy Volunteers (Prevention of SARS-CoV-2-mediated COVID-19);No;No;No;No;No;Yes;No;Yes;Yes;;;Ad26.COV2.S;VAC31518;;;;Not available;Ad26.COV2.S;Test
+2020-005997-82;Netherlands - Competent Authority;Authorised;2/22/21;Favourable;3/12/21;;;176;0;;No;Yes;Yes;No;Anti-COVID19 AKS-452 Phase I/II VaccinaTion Study (ACT-study);UMCG;900452-CT-20-001;Non-Commercial;COVID-19;Yes;Yes;No;No;Yes;No;No;Yes;Yes;;;AKS-452;;;;;;COVID-19 vaccine;Test
+2021-000291-11;Austria - BASG;Authorised;5/30/21;Favourable;3/10/21;;;3000;3000;3000;No;Yes;Yes;No;Characterization of immune responsiveness after SARS-CoV-2 Vaccination in patients with Immunodeficiency or immunosuppressive therapy (COVID-19);Medical University of Vienna;IMRES;Non-Commercial;Vaccination against SARS-CoV-2 in immunocompromised patients;No;No;No;No;No;Yes;No;Yes;Yes;;;COVID-19 Vaccine Moderna dispersion for injection;;;;COVID-19 Vaccine Moderna dispersion for injection;mRNA-1273;Self-amplifying RNA encoding SARS-CoV-2 stabilised spike protein;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Corminaty;BNT162B2;;;Cominranty concentrate for dispersion for injection;Tozinameran;Self-amplifying RNA encoding SARS-CoV-2 stabilised spike protein;Test
+2021-000454-26;Netherlands - Competent Authority;Authorised;3/25/21;Favourable;3/24/21;;;150;0;;No;Yes;No;No;Establishing the safety, tolerability and immunogenicity of intradermal delivery of mRNA SARS-CoV-2 vaccine in healthy adults;Leiden University Medical Center;76702;Non-Commercial;Healthy volunteers;Yes;No;Yes;No;Yes;No;No;Yes;Yes;;;COVID-19 Vaccine Moderna;EMEA/H/C/005791;;;COVID-19 Vaccine Moderna;;;Test
+2021-000509-26;France - ANSM;Authorised;2/24/21;Favourable;2/16/21;;;300;0;;No;Yes;Yes;No;A phase II trial assessing immunogenicity and safety of COVID-19 mRNA Vaccine BNT162b2 in adult volunteers with no history of SARS CoV-2 infection administered with two doses of vaccine (D1-D29) and in adult volunteers with documented history of SARS CoV-2 infection (of more than 6 months) administered with only one dose of vaccine;Inserm-ANRS;ANRS0002S;Non-Commercial;Healthy volunteers;No;No;No;No;Yes;No;No;Yes;Yes;;;Comirnaty;BNT162b2;;;Comirnaty;;;Test
+2021-000548-23;Germany - PEI;Authorised;7/7/21;Favourable;6/1/21;;;60;0;;No;Yes;Yes;No;A multi-center, phase Ib trial to assess the safety, tolerability and immunogenicity of the candidate vaccine MVA-SARS-2-ST in adults;University Medical Center Hamburg-Eppendorf;UKE-SARS-COV-2-ST;Non-Commercial;This study is designed to evaluate the safety, tolerability and reactogenicity of intramuscular dose administrations of: -3 dose levels of the MVA-SARS-2-ST vaccine in healthy SARS-CoV-2 seronegative adults (2 administrations) (Part A). -1 dose level of the MVA-SARS-2-ST vaccine in healthy adults with previous mRNA vaccination against COVID-19 (1 administration) (Part B). ;Yes;Yes;No;No;Yes;No;No;Yes;Yes;;;MVA-SARS-2-ST;MVA-SARS-2-S;;;;;;Test
+;Belgium - FPS Health-DGM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2021-000875-35;Netherlands - Competent Authority;Authorised;2/17/21;Favourable;2/17/21;;;0;0;;No;No;No;No;Investigating the immune response to COVID-19 Vaccination in Lung Transplantation patients (COVALENT study);University Medical Center Gronignen;NL76385.042.21;Non-Commercial;;No;No;No;No;No;No;No;No;No;;;;;;;Moderna;;;Test
+2021-001070-38;Germany - PEI;Authorised;6/9/21;Favourable;6/21/21;Restarted;No;60;0;;No;Yes;Yes;No;B-pVAC-SARS-CoV-2: Phase I/II multi-center safety and immungenicity trial of multi-peptide vaccination to prevent COVID-19 infection in adults with B-cell/antibody deficiency;University Hospital Tuebingen;B-pVAC-SARS-CoV-2;Non-Commercial;Adults with congenital or acquired B cell/antibody deficiency;No;No;No;No;Yes;No;No;Yes;Yes;;;Multipeptide vaccine + XS15;;;;;;;Test
+;Germany - PEI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2021-001290-23;Germany - PEI;Authorised;8/31/21;Not Answered;;;;52;52;420;Yes;Yes;No;No;A PHASE 2b, OPEN-LABEL STUDY TO EVALUATE THE SAFETY, TOLERABILITY, AND IMMUNOGENICITY OF VACCINE CANDIDATE BNT162b2 IN IMMUNOCOMPROMISED PARTICIPANTS ≥2 YEARS OF AGE;BioNTech SE;C4591024;Commercial;Protection against COVID-19;No;No;No;No;Yes;No;No;Yes;Yes;;NCT04895982;BNT162b2;RBP020.2 (PF-07302048);;;COMIRNATY;NAP;Tozinameran;Test
+;Netherlands - Competent Authority;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Germany - PEI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Netherlands - Competent Authority;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2021-001411-82;Spain - AEMPS;Authorised;8/11/21;Favourable;7/21/21;;;30;0;;No;Yes;No;No;A phase I/IIa study to evaluate safety and immunogenicity of recombinant protein RBD fusion dimer candidate vaccine against SARS-CoV-2 in adult healthy volunteers.;LABORATORIOS HIPRA, S.A.;HIPRA-HH-1;Commercial;SARS-CoV-2;Yes;Yes;No;No;Yes;No;No;Yes;Yes;;;PHH-1V;;;;;PHH-1V;PHH-1V;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Comirnaty;BNT162b2SA;BNT162b2SA;Comparator
+2021-001978-37;Spain - AEMPS;Authorised;4/19/21;Favourable;4/16/21;;;600;0;;No;Yes;Yes;No;A Phase 2, Comparative, Randomised, Adaptive Trial to Evaluate the safety and immunogenicity of one dose of COMIRNATY in subjects that had received one dose of VAXZEVRIA.;Instituto de Salud Carlos III. ISCIII;CombiVacS;Non-Commercial;Covid-19 Vaccination;No;No;No;No;Yes;No;No;Yes;Yes;;;Comirnaty;;;;COMIRNATY. Concentrado para dispersión inyectable;;;Test
+;Italy - Italian Medicines Agency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2021-002171-19;Austria - BASG;Authorised;5/12/21;Favourable;5/10/21;;;3000;0;;No;Yes;Yes;No;Heterologous vaccination with a Vaxzervia (ChAdOx1-S) prime and a Comirnaty (BNT162b2) boost;Medizinische Universität Innsbruck, Institut für Virologie;HEVACC;Non-Commercial;Immunization for SARS-CoV-2;No;No;No;No;Yes;No;No;Yes;Yes;;;Comirnaty;;;;Comirnaty concentrate for dispersion for injection COVID-19 mRNA Vaccine (nucleoside modified);COVID-19 mRNA vaccine;COVID-19 mRNA vaccine (nucleoside-modified);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Vaxzevria;;;;Vaxzevria suspension for injection COVID-19 Vaccine (ChAdOx1-S [recombinant]);COVID-19 Vaccine (ChAdOx1-S [recombinant]);COVID-19 vaccine AstraZeneca (ChAdOx1 nCoV-19);Comparator
+2021-002348-57;Austria - BASG;Authorised;5/30/21;Favourable;5/21/21;;;68;68;68;No;Yes;Yes;No;A Randomized, Parallel Group, Single-Blind, Phase 2 Study to Evaluate the immune response of two classes of SARS-Cov-2 Vaccines employed as Third Vaccination in Patients under current Rituximab Therapy and no humoral response after standard mRNA vaccination;Medical University of Vienna;2021-002348-57;Non-Commercial;Vaccination against SARS-CoV-2 in patients with rituximab therapy;No;No;No;No;Yes;No;No;Yes;Yes;;;Comirnaty;BNT162B2;;;Comirnaty concentrate for dispersion for injection;Biontech/Pfizer;COVID-19 mRNA vaccine (nucleoside-modified);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;COVID-19 Vaccine Moderna dispersion for injection;MRNA-1273 SARS COV2;COVID-19 mRNA vaccine Moderna (CX-024414);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Vaxzevria;AZD1222;COVID 19 Vaccine (ChAdOx1 S [recombinant]);Test
+2021-002356-37;Spain - AEMPS;Authorised;9/22/21;Favourable;9/15/21;;;80;0;;No;Yes;Yes;No;Study about the response to the administration of a third dose of mRNA-1273 vaccine (COVID19 vaccine Moderna) in renal transplants with immunological failure initial to vaccination;Fundació Clinic per a la Recerca Biomèdica (FCRB);VAX-TRES;Non-Commercial;COVID19 vaccine in kidney transplant patients;No;No;No;No;Yes;No;No;Yes;Yes;;;;;;;COVID-19 Vaccine Moderna dispersion for injection;COVID-19 mRNA vaccine;COVID-19 mRNA vaccine Moderna (CX-024414);Test
+2021-002387-50;Germany - PEI;Authorised;7/21/21;Favourable;7/22/21;;;549;0;;No;Yes;Yes;No;A Phase II, open-label, rollover trial to evaluate the safety and immunogenicity of one or two boosting doses of Comirnaty or one dose of BNT162b2s01 in BNT162-01 trial subjects, or two boosting doses of Comirnaty in BNT162-04 trial subjects;BioNTech SE;BNT162-14;Commercial;Protection against COVID-19;No;No;No;No;Yes;No;No;Yes;Yes;;;COMIRNATY (COVID-19 mRNA vaccine (nucleoside-modified);;;;COMIRNATY;;;Test
+2021-002530-17;Poland - Office for Medicinal Products;Authorised;7/13/21;Favourable;7/14/21;;;450;1440;2849;No;Yes;Yes;No;A Phase II/III Partially Double-Blinded, Randomised, Multinational, Active-Controlled Study in Both Previously Vaccinated and Unvaccinated Adults to Determine the Safety and Immunogenicity of AZD2816, a Vaccine for the Prevention of COVID-19 Caused by Variant Strains of SARS-CoV-2;AstraZeneca AB;D7220C00001;Commercial;SARS-COV-2 infection (COVID-19);No;No;No;No;Yes;Yes;No;Yes;Yes;;;;AZD1222;;;Vaxzevria;;ChAdOx1 nCoV-19;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AZD2816;;;;;ChAdOx-nCoV19;Test
+2021-002693-10;Austria - BASG;Authorised;7/8/21;Favourable;7/15/21;;;300;0;;No;Yes;Yes;No;A Phase II Study to Evaluate Safety and Efficacy to a Third Vaccination in Immunocompromised Patients with Inadequate Humoral Response after Primary mRNA SARS-CoV-2 (Covid-19) Vaccination;Medical University of Vienna, Department for Internal Medicine III, Division of Rheumatology;VAC3_SARS-CoV2_seroconversion_study;Non-Commercial;Vaccination against SARS-CoV-2 in patients with immunosuppressive therapy or immunodeficiencies;No;No;No;No;Yes;No;No;Yes;Yes;;;Comirnaty;BNT162B2;;;Comirnaty concentrate for dispersion for injection;COVID-19 mRNA Vaccine;COVID-19 mRNA vaccine (nucleoside-modified);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Covid-19 Vaccine Moderna dispersion for injection;COVID-19 mRNA Vaccine;COVID-19 mRNA vaccine Moderna (CX-024414);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Vaxzevria;COVID-19 Vaccine (ChAdOx1-S [recombinant]);COVID-19 vaccine AstraZeneca (ChAdOx1 nCoV-19);Test
+2021-002927-39;Austria - BASG;Authorised;6/13/21;Favourable;6/11/21;;;400;0;400;No;Yes;Yes;No;Preventive strategies against SARS-CoV-2 in kidney transplant recipients: Intervention A – vaccination: Single blinded randomized controlled trial on BNT162b2 or mRNA-1273 (mRNA) vs Ad26COVS1 or ChAdOx1-S (viral vector) for third vaccination as well as pilot trial on fourth vaccination in kidney transplant recipients without SARS-CoV-2 spike protein antibodies following full vaccination against COVID-19 (BOOST-TX) Intervention B – monoclonal antibodies: Recombinant SARS-CoV-2-antibodies in kidney transplant recipients without neutralizing antibody response following full vaccination (RESCUE-TX);Medical University of Vienna;BOOST_TX/RESCUE_TX;Non-Commercial;Intervention A - vaccination Patients following kidney transplant recipients who do not have an adequate immune response against SARS-CoV-2 following two doses of an mRNA vaccine Substudy A: kidney transplant recipients who did not develop antibodies after a fourth dose Intervention B - monoclonal antibodies Kidney transpant recipients who do not develop neutralizing antibodies after at least two doses of SARS-CoV-2 vaccine;No;No;No;No;Yes;No;No;Yes;Yes;;;EVUSHELD;AZD7442;;;;Cilgavimab;AZD1061);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Tixagevimab;AZD8895);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;COVID-19 Vaccine Janssen;Adenovirus type 26 encoding the SARS-CoV-2 spike glycoprotein (Ad26.COV2-S);COVID-19 Vaccine Janssen (Ad26.COV2.S);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;COVID-19 Vaccine Moderna;Single-stranded, 5’-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the v;COVID-19 mRNA vaccine Moderna (CX-024414);Comparator
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Comirnaty;Single-stranded, 5’-capped messenger RNA (mRNA) produced using a cell-free in vitro transcription from the corresponding DNA templates, encoding the v;COVID-19 mRNA vaccine (nucleoside-modified);Comparator
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Vaxzevria;Chimpanzee Adenovirus encoding the SARS-CoV-2 Spike glycoprotein (ChAdOx1-S);COVID-19 vaccine AstraZeneca (ChAdOx1 nCoV-19);Test
+2021-002966-41;France - ANSM;Authorised;8/13/21;Favourable;8/3/21;;;150;0;;Yes;No;No;No;Anti-Covid-19 vaccine protection in immunocompromised children (1-15 years) with acute leukemia and their siblings (≥ 12 years). Phase I-II trial evaluating safety and post-vaccination humoral and cellular immunogenicity / PACIFIC STUDY;Assistance Publique – Hôpitaux de Paris / DRCI;APHP210639;Non-Commercial;- Children aged 1-15 years with LA undergoing chemotherapy or whose last chemotherapy session date is less than or equal to 12 months. - Siblings of children with LA (living in the same household > 50% of the time): 12-15 years old.;No;No;No;No;Yes;No;No;Yes;Yes;;;;;;;COMIRNATY®;COVID-19 mRNA vaccine (nucleoside-modified);COVID-19 mRNA vaccine (nucleoside-modified);Test
+;Norway - NOMA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Germany - PEI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Belgium - FPS Health-DGM;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Poland - Office for Medicinal Products;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Spain - AEMPS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Germany - PEI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Ireland - HPRA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Lithuania - SMCA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Norway - NOMA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Spain - AEMPS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2021-004550-33;France - ANSM;Authorised;11/15/21;Favourable;9/21/21;;;300;0;;No;Yes;Yes;No;Immunogenicity and reactogenicity following a booster dose of COVID-19 mRNA vaccine (Pfizer-BioNtech) and two adjuvanted sub-unit vaccines (SP/GSK) administered in adults who received 2 doses of Pfizer-BioNTech mRNA vaccine as a primary vaccination: A randomized, single-blinded multicenter clinical trial;Assistance publique Hopitaux de Paris/ DRCI;APHP211184;Non-Commercial;COVID-19;No;No;No;No;No;Yes;No;Yes;Yes;;;Vaccin SP/GSK CoV2 preS dTM-AS03 adjuvanted vaccine, strain D614;549;;;;CoV2 preS dTM-AS03 adjuvanted vaccine (D614);Recombinant COVID19 Vaccine E;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Vaccin SP/GSK, CoV2 preS dTM-AS03 adjuvanted vaccine, strain B.1.351;549;;;;CoV2 preS dTM-AS03 adjuvanted vaccine (B.1.351);Recombinant COVID19 Vaccine C;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;COMIRNATY, concentrate for dispersion for injection, COVID-19 mRNA Vaccine (nucleoside modified);Comirnaty;COVID-19 mRNA vaccine (nucleoside-modified);Test
+;Spain - AEMPS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Germany - PEI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Ireland - HPRA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Norway - NOMA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Spain - AEMPS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Sweden - MPA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2021-005043-71;Netherlands - Competent Authority;Authorised;10/8/21;Favourable;11/24/21;;;60;400;400;Yes;No;No;No;A Phase 2, Comparative Randomised Trial to Evaluate the impact of reduced COVID-19 mRNA vaccination regimens on immunological responses and reactogenicity in paediatric subjects with and without prior SARS-CoV-2 infection;University Medical Center Utrecht;EU-COVPT-1;Non-Commercial;Healthy volunteers (paediatric subjects) with or without prior SARS-CoV-2 infection;No;No;No;No;Yes;No;No;Yes;Yes;;;;;;;Comirnaty;;;Test
+2021-005094-28;Austria - BASG;Authorised;10/21/21;Favourable;10/21/21;;;5000;0;;No;Yes;Yes;Yes;Population-based prospective, clinical study on efficacy and safety of a booster COVID-19 vaccination;Medical University of Vienna, Department for Internal Medicine III, Division of Rheumatology;VAC3_COVID-19_antibody_study_V1;Non-Commercial;SARS-CoV-2 infection prevention;No;No;No;No;Yes;No;No;Yes;Yes;;;Comirnaty;BNT162B2;;;Comirnaty concentrate for dispersion for injection;COVID-19 mRNA Vaccine;COVID-19 mRNA vaccine (nucleoside-modified);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Influvac Tetra;J07BB02;;;inactivated quadrivalent influenza vaccine (surface antigen);A/Cambodia/e0826360/2020 (H3N2)-like strain;A/Cambodia/e0826360/2020 (H3N2)-like strain (A/Cambodia/e0826360/2020 IVR-224);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;A/Victoria/2570/2019(H1N1)pdm09-like strain;A/Victoria/2570/2019 (H1N1)pdm09-like strain (A/Victoria/2570/2019, IVR-215);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;B/Phuket/3073/2013-like strain;B/PHUKET/3073/2013-LIKE VIRUS (B/PHUKET/3073/2013, WILD TYPE);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;B/Washington/02/2019-like strain;B/Washington/02/2019 - like virus (B/Washington/02/2019, wild type);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Covid-19 Vaccine Moderna dispersion for injection;COVID-19 mRNA Vaccine;COVID-19 mRNA vaccine Moderna (CX-024414);Test
+;Germany - PEI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Poland - Office for Medicinal Products;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Germany - PEI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2021-005226-26;Spain - AEMPS;Authorised;11/15/21;Favourable;11/5/21;;;602;0;;No;Yes;Yes;No;A Phase IIb, double-blind, randomized, active controlled, multi-centre, non-inferiority trial followed by a Phase III, single arm, open label trial, to assess immunogenicity and safety of a booster vaccination with a recombinant protein RBD fusion dimer candidate (PHH-1V) against SARS-CoV-2, in adults fully vaccinated against COVID-19;HIPRA SCIENTIFIC;HIPRA-HH-2;Commercial;SARS-CoV-2;No;No;No;No;Yes;No;No;Yes;Yes;;;PHH-1V;PHH-1V;;;;PHH-1V;PHH-1V;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Comirnaty;Tozinameran;;Comparator
+2021-005509-28;Netherlands - Competent Authority;Authorised;2/10/22;Favourable;2/1/22;;;600;0;;No;Yes;Yes;No;Anti-COVID19 VaccinaTion AKS-452X BOOSTER Study (ACT-BOOSTER study) ;Akston Biosciences Corporation;901452-CT-21-001;Commercial;COVID-19;No;No;No;No;Yes;No;No;Yes;Yes;;;AKS-452X;;;;;AKS-452X;COVID-19 vaccine;Test
+2022-000035-23;Netherlands - Competent Authority;Authorised;2/2/22;Favourable;4/11/22;;;100;150;150;No;Yes;No;No;OPEN-LABEL PHASE 3 CLINICAL STUDY TO INVESTIGATE SAFETY AND IMMUNOGENICITY OF A SINGLE VLA2001 BOOSTER VACCINATION IN VOLUNTEERS AGED ≥18 YEARS, AFTER NATURAL SARS-COV-2 INFECTION OR RECEIPT OF NATIONALLY ROLLED OUT mRNA COVID-19 VACCINES.;Valneva Austria GmbH;VLA2001-307;Commercial;Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus. Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment. Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.;No;No;No;No;No;Yes;No;Yes;Yes;;;VLA2001;VLA2001;;;;Alum;ALUMINIUM HYDROXIDE;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;CpG-1018;CpG 1018;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;SARS-CoV-2 virus, beta-propiolactone inactivated;SARS-CoV-2 virus, beta-propiolactone inactivated;Test
+;Italy - Italian Medicines Agency;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Portugal - INFARMED;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;Spain - AEMPS;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+2022-000785-18;Spain - AEMPS;Authorised;5/9/22;Favourable;5/6/22;;;350;400;400;No;Yes;Yes;No;A Phase III, open label, single arm, multi-center, trial to assess the immunogenicity and safety of an additional dose vaccination with a recombinant protein RBD fusion heterodimer candidate (PHH-1V) against SARS-CoV-2, in adults with pre-existing immunosupressive conditions vaccinated against COVID-19.;HIPRA SCIENTIFIC;HIPRA-HH-4;Commercial;SARS-CoV-2 infection;No;No;No;No;No;Yes;No;Yes;Yes;;;PHH-1V;PHH-1V;;;;SARS-CoV-2 virus, variants B.1.351-B.1.1.7, spike protein, receptor binding domain fusion heterodimer;PHH-1V;Test
+2022-000795-19;Spain - AEMPS;Authorised;3/10/22;Favourable;3/9/22;;;273;0;;No;Yes;No;No;A PHASE IIB, DOUBLE-BLIND, RANDOMIZED, ACTIVE CONTROLLED, MULTI-CENTER, NON-INFERIORITY TRIAL TO ASSESS IMMUNOGENICITY AND SAFETY OF A BOOSTER VACCINATION WITH A RECOMBINANT PROTEIN RBD FUSION DIMER CANDIDATE (PHH-1V) AGAINST SARS-COV-2, IN ADULTS FULLY VACCINATED WITH ADENOVIRUS VACCINE AGAINST COVID-19;HIPRA SCIENTIFIC;HIPRA-HH-10;Commercial;SARS-COV-2;No;No;No;No;Yes;No;No;Yes;Yes;;;PHH-1V;PHH-1V;;;;SARS-CoV-2 virus, variants B.1.351-B.1.1.7, spike protein, receptor binding domain fusion heterodimer;PHH-1V;Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;Comirnaty;Tozinameran;-;Comparator
+2021-002174-52;France - ANSM;Authorised;5/19/21;Favourable;5/11/21;;;400;0;;No;Yes;Yes;Yes;French Essai multicentrique randomisé en ouvert comparant l’efficacité immunologique d’un schéma vaccinal combinant deux vaccins ARNm Covid19 (Pfizer-BioNTech et Moderna) à celle d’une vaccination homologue de chaque vaccin ARNm Covid19 : essai de non infériorité;Assistance Publique -Hopitaux de Paris;APHP210605;Non-Commercial;;No;No;No;No;No;Yes;No;Yes;Yes;;;COMIRNATY;;;;COMIRNATY;;COVID-19 mRNA vaccine (nucleoside-modified);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;COVID-19 vaccine Moderna;;;;COVID-19 vaccine Moderna;;COVID-19 mRNA vaccine Moderna (CX-024414);Test
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+"More information on publicly available data of EudraCT trials can be seen in EudraCT FAQs https://eudract.ema.europa.eu/docs/guidance/EudraCT%20FAQ_for%20publication.pdf)
+
+";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

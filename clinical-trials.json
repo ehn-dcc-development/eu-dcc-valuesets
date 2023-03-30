@@ -1,0 +1,251 @@
+{
+  "valueSetId": "clinical-trials",
+  "valueSetDate": "2023-03-30",
+  "valueSetValues": {
+    "2020-001483-28": {
+      "display": "Ad26COVS1",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2020-002584-63": {
+      "display": "Ad26.COV2.S (also known as Ad26COVS1)",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2020-002641-42": {
+      "display": "BNT162b1",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2020-003643-29": {
+      "display": "Ad26.COV2.S",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2020-004272-17": {
+      "display": "SCB-2019 (CpG 1018/Alum-djuvanted SCB-2019)",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2020-005442-42": {
+      "display": "BNT162b2",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2020-005444-35": {
+      "display": "BNT162b2",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2020-005801-14": {
+      "display": "Ad26.COV2.S",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2020-005997-82": {
+      "display": "AKS-452",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-000291-11": {
+      "display": "COVID-19 Vaccine Moderna dispersion for injection",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-000454-26": {
+      "display": "COVID-19 Vaccine Moderna",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-000509-26": {
+      "display": "Comirnaty",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-000548-23": {
+      "display": "MVA-SARS-2-ST",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-000875-35": {
+      "display": "",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-001070-38": {
+      "display": "Multipeptide vaccine + XS15",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-001290-23": {
+      "display": "BNT162b2",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-001411-82": {
+      "display": "PHH-1V",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-001978-37": {
+      "display": "Comirnaty",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-002171-19": {
+      "display": "Comirnaty",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-002348-57": {
+      "display": "Comirnaty",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-002356-37": {
+      "display": "",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-002387-50": {
+      "display": "COMIRNATY (COVID-19 mRNA vaccine (nucleoside-modified)",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-002530-17": {
+      "display": "",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-002693-10": {
+      "display": "Comirnaty",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-002927-39": {
+      "display": "EVUSHELD",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-002966-41": {
+      "display": "",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-004550-33": {
+      "display": "Vaccin SP/GSK CoV2 preS dTM-AS03 adjuvanted vaccine, strain D614",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-005043-71": {
+      "display": "",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-005094-28": {
+      "display": "Comirnaty",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-005226-26": {
+      "display": "PHH-1V",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-005509-28": {
+      "display": "AKS-452X",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2022-000035-23": {
+      "display": "VLA2001",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2022-000785-18": {
+      "display": "PHH-1V",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2022-000795-19": {
+      "display": "PHH-1V",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    },
+    "2021-002174-52": {
+      "display": "COMIRNATY",
+      "lang": "en",
+      "active": true,
+      "system": "",
+      "version": ""
+    }
+  }
+}
