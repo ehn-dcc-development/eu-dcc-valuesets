@@ -1,6 +1,6 @@
 # EU eHealthNetwork Digital COVID Certificate valuesets
 
-Welcome to the EU-DCC valuesets repository. This repository contains a snapshot of the valuesets referenced by the EU Digital COVID Certificate (DCC) [JSON Schema](https://github.com/ehn-dcc-development/ehn-dcc-schema). The most up-to-date version of the valuesets are distributed on the [EU DGC Gateway](https://github.com/eu-digital-green-certificates/dgc-gateway).
+Welcome to the EU-DCC valuesets repository. This repository contains a snapshot of the valuesets referenced by the EU Digital COVID Certificate (DCC) [JSON Schema](https://github.com/ehn-dcc-development/eu-dcc-schema). The most up-to-date version of the valuesets are distributed on the [EU DGC Gateway](https://github.com/eu-digital-green-certificates/dgc-gateway).
 
 All of the file found in this repository should be considered for reference usage only. The current official release is published on the EU DGC Gateway. As access to this gateway is only available to Member States please refer to your own Member State to for access to those files.
 
@@ -26,7 +26,7 @@ vaccine-prophylaxis.json			 | List of the vaccine/prophylaxis types							 | Git
 
 The JSON Schema definition for the structure used for all of the above valuesets can be found in [DCC.ValueSets.schema.json](DCC.ValueSets.schema.json)
 
-Finally the we have [changelog](CHANGELOG.md), [license](LICENSE.md) and [versioning](VERSIONING.md) files and, of course, this [readme](README.md).
+Finally, we have [changelog](CHANGELOG.md), [license](LICENSE.md) and [versioning](VERSIONING.md) files and, of course, this [readme](README.md).
 
 
 ## Working with the valuesets
@@ -67,6 +67,10 @@ If there are any validation errors they will be shown on the screen.
 We use [JSON Schema 2020-12](https://json-schema.org/specification.html) to define the schema of the valuesets. For most of the valuesets there is a [shared schema](schemas/DCC.ValueSets.schema.json).
 
 For files which have a different schema - such as `vaccine-encoding-instructions` - the validator supports the definition of a custom schema. By convention these schema files are named `<valueset-file-name>.schema.json` and are stored in `./schema`. So for `vaccine-encoding-instructions.json` the schema `vaccine-encoding-instructions.schema.json` is used.
+
+The validator also checks whether the set of actual valuesets coincides with the set expected by the [EU DCC Schema standard](https://github.com/ehn-dcc-development/eu-dcc-schema/blob/release/1.3.3/DCC.ValueSets.schema.json).
+The exact GitHub reference - being a (release) tag, or branch - is configured through the `EU_DCC_SCHEMA_REF` constant defined in [this config file](./schemas/config.js).
+This constant needs to be updated when a new release of the EU DCC Schema is released, or while being worked on.
 
 The validator code has been written in an imperative style for ease of understanding and [can be found in the schema directory](schemas/validate-valuesets.js).
 

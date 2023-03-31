@@ -13,7 +13,7 @@ Each release is identified through a [semver version number](https://semver.org/
 
 Releases are prepared in branches named `release/<release version>`.
 After preparation has finished, a _Pull Request_ (PR) from the release branch into `main` is created on GitHub.
-That can e.g. be done by clicking the “New Pull Request” button on the [branches page](https://github.com/ehn-dcc-development/ehn-dcc-valuesets/branches).
+That can e.g. be done by clicking the “New Pull Request” button on the [branches page](https://github.com/ehn-dcc-development/eu-dcc-valuesets/branches).
 
 Such a PR serves as the trigger a code review for that release.
 That possibly leads to discussion conducted inside the PR page, and further work being committed to that release branch.
@@ -34,7 +34,7 @@ That can be done on the commandline as follows (assuming the `main` branch is cu
     $ git tag <release version>
     $ git push --tags
 
-After this, a release page can be made for that tag, using the [GitHub releases overview](https://github.com/ehn-dcc-development/ehn-dcc-valuesets/releases).
+After this, a release page can be made for that tag, using the [GitHub releases overview](https://github.com/ehn-dcc-development/eu-dcc-valuesets/releases).
 
 After releasing, the European Commission's (EC) representative in the eHN should be notified of the release, so they can notify TSi to update the EU DCC Gateway.
 
