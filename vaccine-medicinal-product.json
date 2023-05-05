@@ -267,6 +267,13 @@
       "active": true,
       "system": "https://ec.europa.eu/health/documents/community-register/html/",
       "version": ""
+    },
+    "EU/1/22/1709": {
+      "display": "Bimervax",
+      "lang": "en",
+      "active": true,
+      "system": "https://ec.europa.eu/health/documents/community-register/html/",
+      "version": ""
     }
   }
 }
