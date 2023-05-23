@@ -1,1 +1,1 @@
-module.exports.EU_DCC_SCHEMA_REF = "release/1.3.3";
+module.exports.EU_DCC_SCHEMA_REF = "feature/clinical-trials-valueset";
