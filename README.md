@@ -4,7 +4,7 @@ Welcome to the EU-DCC valuesets repository. This repository contains a snapshot 
 
 All of the file found in this repository should be considered for reference usage only. The current official release is published on the EU DGC Gateway. As access to this gateway is only available to Member States please refer to your own Member State to for access to those files.
 
-Release: 2.13.0
+Release: 2.12.0
 
 
 ## Overview
