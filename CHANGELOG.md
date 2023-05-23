@@ -2,7 +2,19 @@
 
 ## Release 2.12.0
 
-**TODO**
+* Update to eHN guidelines document for value sets, version 1.15:
+    1. New vaccine entry added: “Bimervax“, ID'd as “EU/1/22/1709”.
+       This new entry does not have an explicit version because it's an EMA-approved vaccine, and EMA has their own versioning system.
+    2. Addition of a marketing authorization holder or manufacturer “Hipra Human Health S.L.” for the new vaccine entry, ID'd as “ORG-100036914”.
+    3. Addition of a vaccine encoding instruction corresponding to the combination of sub items 1 and 2.
+
+  The [guidelines document v1.15 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
+* Implement validation of valuesets against the EU DCC Schema.
+  * Implement a Git hook that runs that validation prior to committing.
+
+* Improve the documentation - [README](./README.md) an [VERSIONING](./VERSIONING.md) - in various ways.
+  * Fix not-yet-renamed links to repos which formerly were prefixed with "`ehn-dcc-`".
 
 
 ## Release 2.11.0

@@ -211,6 +211,13 @@
       "active": true,
       "system": "http://ec.europa.eu/temp/vaccinemanufacturer",
       "version": "1.10"
+    },
+    "ORG-100036914": {
+      "display": "Hipra Human Health S.L.",
+      "lang": "en",
+      "active": true,
+      "system": "https://spor.ema.europa.eu/v1/organisations",
+      "version": ""
     }
   }
 }
