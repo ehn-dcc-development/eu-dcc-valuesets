@@ -1,5 +1,22 @@
 # Change log
 
+## Release 2.12.0
+
+* Update to eHN guidelines document for value sets, version 1.15:
+    1. New vaccine entry added: “Bimervax“, ID'd as “EU/1/22/1709”.
+       This new entry does not have an explicit version because it's an EMA-approved vaccine, and EMA has their own versioning system.
+    2. Addition of a marketing authorization holder or manufacturer “Hipra Human Health S.L.” for the new vaccine entry, ID'd as “ORG-100036914”.
+    3. Addition of a vaccine encoding instruction corresponding to the combination of sub items 1 and 2.
+
+  The [guidelines document v1.15 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
+
+* Implement validation of valuesets against the EU DCC Schema.
+  * Implement a Git hook that runs that validation prior to committing.
+
+* Improve the documentation - [README](./README.md) an [VERSIONING](./VERSIONING.md) - in various ways.
+  * Fix not-yet-renamed links to repos which formerly were prefixed with "`ehn-dcc-`".
+
+
 ## Release 2.11.0
 
 * Add a value set that encodes Annex A of the guidelines document, including its derivation.
@@ -12,6 +29,8 @@
     1. All occurrences of the "J07BX03" ACT code in , have been replaced by the "28531000087107" SCT code.
     2. The derivation script for this value set has been updated to check for deprecated ACT/SCT codes.
        (It also reports the correct row numbers now.)
+
+  The [guidelines document v1.14 has been adopted and published](https://ec.europa.eu/health/sites/default/files/ehealth/docs/digital-green-value-sets_en.pdf) through the [eHealth network page on the EU DCC](https://ec.europa.eu/health/ehealth/covid-19_en).
 
 
 ## Release 2.10.0
@@ -140,5 +159,5 @@ The [guidelines document v1.5 has been adopted and published](https://ec.europa.
 
 ## Prior releases
 
-Change log for releases before 2.3.0 are available through the [releases page](https://github.com/ehn-dcc-development/ehn-dcc-valuesets/releases).
+Change log for releases before 2.3.0 are available through the [releases page](https://github.com/ehn-dcc-development/eu-dcc-valuesets/releases).
 

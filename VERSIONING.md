@@ -13,7 +13,7 @@ Each release is identified through a [semver version number](https://semver.org/
 
 Releases are prepared in branches named `release/<release version>`.
 After preparation has finished, a _Pull Request_ (PR) from the release branch into `main` is created on GitHub.
-That can e.g. be done by clicking the “New Pull Request” button on the [branches page](https://github.com/ehn-dcc-development/ehn-dcc-valuesets/branches).
+That can e.g. be done by clicking the “New Pull Request” button on the [branches page](https://github.com/ehn-dcc-development/eu-dcc-valuesets/branches).
 
 Such a PR serves as the trigger a code review for that release.
 That possibly leads to discussion conducted inside the PR page, and further work being committed to that release branch.
@@ -34,6 +34,10 @@ That can be done on the commandline as follows (assuming the `main` branch is cu
     $ git tag <release version>
     $ git push --tags
 
+After this, a release page can be made for that tag, using the [GitHub releases overview](https://github.com/ehn-dcc-development/eu-dcc-valuesets/releases).
+
+After releasing, the European Commission's (EC) representative in the eHN should be notified of the release, so they can notify TSi to update the EU DCC Gateway.
+
 It's advisable to rebase a release branch manually, and check it afterwards, as there's no guarantee that a conflict-free automatic rebase is syntactically, or semantically correct.
 On the commandline, that's (assuming the release branch is currently checked out):
 
@@ -46,10 +50,12 @@ After a manual rebase, the rebased branch has to be force-pushed, using:
 
     $ git push --force
 
-The release branch can be deleted after merging the PR, for the following reasons:
+The release branch _could_ be deleted after merging the PR, for the following reasons:
 
 - A branch is essentially a label on a HEAD commit, and a tag fulfills the labelling function just as well.
 - Having many branches can be confusing.
+
+However, currently (essentially) all release branches are kept.
 
 
 ### Fixing a release

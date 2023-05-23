@@ -1,0 +1,8 @@
+#!/bin/sh
+#
+
+# Ensure npm pre-reqs are installed
+npm install
+
+# Run the NPM tests
+npm test || exit 1
