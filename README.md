@@ -1,5 +1,11 @@
 # EU eHealthNetwork Digital COVID Certificate valuesets
 
+## IMPORTANT NOTICE
+
+As of July 1st 2023 the EU-DCC project has been handed over to the WHO. The project has therefore been frozen. This repository will be placed into archival mode and will remain available for the foreseeable future however it will no longer be actively maintained.
+
+## Introduction
+
 Welcome to the EU-DCC valuesets repository. This repository contains a snapshot of the valuesets referenced by the EU Digital COVID Certificate (DCC) [JSON Schema](https://github.com/ehn-dcc-development/eu-dcc-schema). The most up-to-date version of the valuesets are distributed on the [EU DGC Gateway](https://github.com/eu-digital-green-certificates/dgc-gateway).
 
 All of the file found in this repository should be considered for reference usage only. The current official release is published on the EU DGC Gateway. As access to this gateway is only available to Member States please refer to your own Member State to for access to those files.
